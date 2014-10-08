@@ -1,0 +1,18 @@
+[
+  "ui/bg/act-menu0.png",
+  "ui/quickmenu/act-menu0.png",
+  "ui/topmenu/act-menu0.png",
+  "ui/index/act-menu0.png",
+  "ui/info_window_confirm2/act-menu0.png",
+  "ui/info_window_quest/act-menu0.png",
+  "ui/questmap/act-menu0.png",
+  "publish\\ui_index.json",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\bg\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\quickmenu\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\topmenu\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\index\\act-menu0.plist",
+  "ui/bg/bg.ExportJson",
+  "ui/quickmenu/quickmenu.ExportJson",
+  "ui/topmenu/topmenu.ExportJson",
+  "ui/index/index.ExportJson"
+]

@@ -1,0 +1,521 @@
+TEXT_ID	EN	CN	JP			
+1	Arsenal	武器库	STORE			
+2	Co-op	联机作战	PVP			
+3	Back	返回	BACK			
+4	Upgrade	升级	UPGRADE			
+5	Equip	装备	EQUIP			
+6	Ok	好滴	OK			
+7	Buy	购买	BUY			
+8	Dress Up	穿上	GET ON			
+9	Take Off	脱下	TAKE OFF			
+10	Try On	试穿	TRY ON			
+11	EQUIPPED	已装备	EQUIPED			
+12	OWNED	已拥有	OWNED			
+13	Power	威力	POWER			
+14	Medals	勋章	Medal			
+15	Coins	钱币	Coin			
+16	$	￥	￥			
+17	DMG	伤害	DMG			
+18	SPD	攻速	SPD			
+19	Ammo	弹药	AMMO			
+20	Enter	开战	Play			
+21	Charge Stamina	补充体力	Charge Stamina			
+22	Not enough Medals?#nGo to the shop to#ntop up! Please don't#nlet me down.	咦，勋章不够用了？#n快去商店充值吧~#n不要让人家失望哦~	Not Enough Medel?#nMove to Charge.			
+23	Not enough Coins?#nGo to the shop to#ntop up! Please don't#nlet me down.	咦，钱币不够用了？#n快去商店充值吧~#n不要让人家失望哦~	Not Enough Coin?#nMove to Charge.			
+24	Level Up	升级咯~	Level Up			
+25	Refilled	再填充	Refilled			
+26	Pause	暂停	Pause			
+27	Resume	继续	Resume			
+28	Quit	退出	Quit			
+29	Cost	消耗	Cost			
+30	Cancel	取消	CANCEL			
+31	M1911 Desert Warrior	M1911沙漠勇士	Pistol_A			
+32	USP45 Pistol	USP45自动手枪	Pistol_B			
+33	M617 Revolver	M617左轮手枪	Pistol_C			
+34	Thunder 50	Thunder50手炮	Pistol_D			
+35	Nova Shotgun	NOVA改霰弹枪	Shotgun_A			
+36	Remington M870	雷明顿M870	Shotgun_B			
+37	Winchester 1887	温彻斯特M1887	Shotgun_C			
+39	M4A1 Carbine	M4A1卡宾枪	Autogun_A			
+40	SG-552 Commando	SG-552两用步枪	Autogun_B			
+41	AK-47	AK-47突击步枪	Autogun_C			
+42	M134 Minigun	M134迷你机枪	Autogun_D			
+43	AWSM Sniper	AWSM远程狙击	Sniper_A			
+44	L115A3 Sniper Rifle	L115A3狙击步枪	Sniper_B			
+45	B50 Deer Rifle	B50猎鹿枪	Sniper_C			
+46	Meteorite Sword	七星陨铁刀	Near_A			
+47	Samurai Sword	山本夜影武士刀	Near_B			
+48	Baseball Bat	WR750球棒	Near_C			
+49	Mac738 Chainsaw	Mac738链锯	ZigZaw_A			
+50	RPG-13	RPG-13火箭筒	RPG_A			
+51	RPG-7	RPG-7火箭筒	RPG_B			
+52	Saiga-40	Saiga-40独头弹枪	Shotgun_D			
+53	C98 Frost Gun	C98冰冻枪	Shotgun_E			
+54	HECO First Aid Spray	HECO治疗喷雾	Spray_A			
+55	ZS-01 Dummy	ZS-01诱导人形	Throw_A			
+56	Napalm Bomb	N61燃烧弹	Throw_B			
+57	Mk2A1 Grenade	Mk2A1手雷	Throw_C			
+58	TESLA Mine	TESLA地雷	Throw_D			
+59	M2A1 Mine	M2A1步兵地雷	Throw_E			
+71	Body Armor	防弹背心	body armor			
+72	Fleet	健步如飞	fleet footed			
+73	Ammunition 	附加弹药	overload			
+74	Fast Escape	快速逃生	fast escape			
+75	Glass Cannon	玻璃大炮	glass cannon			
+76	Life Tap	吸血	life leech			
+77	Deceleration 	减速	slow			
+78	Fury Killer	愈战愈勇	fury			
+79	Untouchable	不可侵犯	untouchable			
+80	Gun Mastery	枪械大湿	gun mastery			
+81	Melee Mastery	体术高手	melee mastery			
+82	The Pyro Guy	爆破专家	RPG mastery			
+83	Elite Hunter	精英猎手	elite hunter			
+84	Big Supply	雪中送炭	big supply			
+85	Scavenger	拾荒者	scavenger			
+86	Controller	控制者	Control			
+87	I am MT	我是MT	MT			
+101	Daily Casual	日常休闲服	Costume1			
+102	Battle Uniform	特种战术装	Costume2			
+103	School Uniform	学园制服	Costume3			
+104	Sleeve Kimono	色留袖和服	Costume4			
+105	Empire Dress	小洋装	Costume5			
+106	Uniform Costume	制服套装	Costume6			
+107	Pet Costume	宠物装	Costume7			
+108	Court Dress	宫廷礼服	Costume8			
+109	Maid Dress	女仆装	Costume9			
+110	Punk Dress	朋克装	Costume10			
+111	Lion Hairband	狮狮头套	Hair1			
+112	Kemonomimi	灵狐妖耳	Hair2			
+113	Puppy Hairband	趴趴狗	Hair3			
+114	Beret	贝雷帽	Hair4			
+115	Queen's Crown	女王之冠	Hair5			
+116	Mew Mew Hairband	咪咪发卡	Hair6			
+117	Maid Hairband	女仆头巾	Hair7			
+118	Sports Socks	运动袜	Stocking1			
+119	White Stockings	白色丝袜	Stocking2			
+120	Black Stockings	黑色丝袜	Stocking3			
+121	Pink Stockings	可爱粉色长袜	Stocking4			
+122	Fishnet Stockings	魅惑网袜	Stocking5			
+123	Star Stockings	星空花色长袜	Stocking6			
+124	Sneakers	帆布球鞋	Shoes1			
+125	Floral Geta	复古碎花木屐	Shoes2			
+126	Preppy Shoes	学院风糖果鞋	Shoes3			
+127	Plush Shoes	毛绒爪套	Shoes4			
+128	Pink Shoes	绝版粉系公主鞋	Shoes5			
+129	Army Boots	特种制式军靴	Shoes6			
+130	Fluffy Bunny Girl	毛绒兔女郎	Costume11			
+131	Pink Bunny Girl	红粉兔女郎	Costume12			
+132	Bunny Ear	毛绒兔耳朵	Hair8			
+133	Pink Bunny Ear	红粉兔耳朵	Hair9			
+134	Leopard Stockings	豹纹提花丝袜	Stocking7			
+135	Silk Stockings	缤纷双色丝袜	Stocking8			
+136	Bunny Paws	兔兔爪套	Shoes7			
+151	Increases maximum HP by <color=#f1436fff>#1%</color>	角色HP上限提高<color=#f1436fff>#1%</color>	Increase your HP by #1% 			
+152	Increases Movement speed by <color=#f1436fff>#1%</color>	角色移动速度提高<color=#f1436fff>#1%</color>	Increase your movement speed by #1%			
+153	Increases the capacity of all weapons#nby <color=#f1436fff>#1%</color>	子弹上限提高<color=#f1436fff>#1%</color>	Increase maximum ammo by #1%			
+154	Reduce the Slow Effect and being#ncontroled time by <color=#f1436fff>#1%</color> when you get#nbitten	受僵尸啃咬造成的减速效果、受到控制#n的持续时间，减少<color=#f1436fff>#1%</color>	Reduce the slow effect by #1% when you get bitten			
+155	"Increases Attack Power by <color=#f1436fff>#1%</color>,#nmeanwhile increase all Damage#n taken by <color=#f1436fff>#2%</color>"	角色攻击力增加<color=#f1436fff>#1%</color>，同时角色受到的#n伤害增加<color=#f1436fff>#2%</color>	"Increase all damage done by #1%, but also increase all damage taken by #2%"			
+156	Converts <color=#f1436fff>#1%</color> of the Attack Damage#nDealt into character's HP (effect#ndoubles when using melee weapon	角色攻击造成伤害的<color=#f1436fff>#1%</color>转化为角色#n的HP（使用近战武器时，效果翻倍）	Gain #1% of all damage done as health			
+157	Your Attack grants <color=#f1436fff>#1%</color> chance to slow#nEnemy Movement Speed by <color=#f1436fff>#2%</color>	角色攻击时有<color=#f1436fff>#1%</color>概率使敌人减速<color=#f1436fff>#2%</color>	Your attack have #1% chance to slow enemy movement speed by #2%			
+158	Killing an enemy grants you <color=#f1436fff>+#1%</color> Move#nSpeed and <color=#f1436fff>+#2%</color> Attack for a short time.#nThis effect stacks up to 5 times	"每杀死一个敌人，短时间内移动速度#n增加<color=#f1436fff>#1%</color>,攻击力增加<color=#f1436fff>#2%</color>，效果最多#n可叠加5层"	Killing an enemy boost your speed by #1% and increase your damage by #2% for a short time. This effect can stack up to 5 times			
+159	"Whenever you are hit in a close combat,#nyou have <color=#f1436fff>#1%</color> chance to knock back all#nenemies around you with <color=#f1436fff>#2</color> damage"	角色受到近身攻击时有<color=#f1436fff>#1%</color>几率将周围#n所有敌人弹开并造成<color=#f1436fff>#2</color>点伤害	"Whenever you are hit, you have #1% chance to  knock back all enemies around you with 2 damage"			
+160	Increases all Gun accuracy by <color=#f1436fff>+#1%</color> and#nCritical Hit Damage chance by <color=#f1436fff>+#2%</color>.#nA Critical Hit deals double damage.	枪械类武器的命中率提升<color=#f1436fff>#1%</color>，暴击率#n提升<color=#f1436fff>#2%</color>，暴击时造成两倍伤害	"Increase all gun accuracy and critical hit chance. n+#1% accuracy, +#2% critical hit chance."			
+161	Increases all Melee Damage by <color=#f1436fff>#1%</color> and#nAttack Speed by <color=#f1436fff>#2%</color> 	近战武器的伤害提升<color=#f1436fff>#1%</color>，攻击速度#n提升<color=#f1436fff>#2%</color>	"Increase all melee weapon damage and attack speed. n+#1% damage, +#2% attack speed"			
+162	Increases Explode Damage by <color=#f1436fff>+#1%</color> and#nBlast Radius by <color=#f1436fff>#2</color> yards	爆炸类武器的伤害提升<color=#f1436fff>#1%</color>，范围#n提升<color=#f1436fff>#2</color>码	"Increase all RPG blast radius and damage. n+#1% damage, +2 blast radius "			
+163	Increases Attack Damage against Elites#nby <color=#f1436fff>#1%</color>	攻击精英怪时，造成<color=#f1436fff>#1%</color>的额外伤害	Increase damage against elites by #1%			
+164	Offers you <color=#f1436fff>#1%</color> more from Ammunition#nBox and First Aid Kit	弹药箱的补给量，医疗包以及治疗喷雾#n的治疗效果，提升<color=#f1436fff>#1%</color>	You gain #1% more from ammunition box and medical kit			
+165	Increases Gold and Item pickup radius#nby <color=#f1436fff>#1</color> yards#n( not in the Co-op mode)	金币和道具的拾取范围扩大<color=#f1436fff>#1</color>码#n(联机模式下无效)	Increase gold and item pickup radius by 1 yards			
+166	"Increases the controlling time by <color=#f1436fff>#1%</color>#n( effects on freezing, deceleration#nand the dummy exsiting time)"	控制效果持续时间延长<color=#f1436fff>#1%</color>#n（影响冰冻和减速效果持续时间，以及#n诱导人形的存在时间）	" +1 resurrection times per game, +#2% resurrection health and ammo"			
+167	"In Co-op, you are more easily to become#nzombiegal's target than teammate.#nIt increases your hatred by #1%"	联机模式下，你会比队友更容易成为僵#n尸娘的目标。#n你吸引的仇恨增加<color=#f1436fff>#1%</color>	" +1 resurrection times per game, +#2% resurrection health and ammo"			
+201	The End of Rival 	宿敌的尽头	Level Title 1			
+202	Blood Is the Sky 	被染红的云	Level Title 2			
+203	Between Seconds 	分秒之间	Level Title 3			
+204	Darkness Rises 	黑暗的胎动	Level Title 4			
+205	The Vaule of Miracle 	奇迹的价值	Level Title 5			
+206	Level Title 6	关卡名称 6	Level Title 6			
+207	Level Title 7	关卡名称 7	Level Title 7			
+208	Level Title 8	关卡名称 8	Level Title 8			
+209	Level Title 9	关卡名称 9	Level Title 9			
+210	Level Title 10	关卡名称 10	Level Title 10			
+211	Kiana's Survival	Kiana的坚守	Level Title 11			
+212	The Sky is Weeping	恸哭的天空	Level Title 12			
+213	Attack on Zombiegals	尸娘袭来	Level Title 13			
+214	Backside of the Night	夜的背面	Level Title 14			
+215	The Last Dead	最后的死者	Level Title 15			
+216	Level Title 16	关卡名称 16	Level Title 16			
+217	Level Title 17	关卡名称 17	Level Title 17			
+218	Level Title 18	关卡名称 18	Level Title 18			
+219	Level Title 19	关卡名称 19	Level Title 19			
+220	Level Title 20	关卡名称 20	Level Title 20			
+221	Collapsed Campus	崩溃的学园	Level Title 21			
+222	Burning Battlefield	燃烧的战场	Level Title 22			
+223	Kiana Strike	Kiana出击	Level Title 23			
+224	Sneak under Twilight	暮色潜行	Level Title 24			
+225	The Last Battle	落幕之战	Level Title 25			
+226	Level Title 26	无尽的试炼	Level Title 26			
+227	Level Title 27	关卡名称 27	Level Title 27			
+228	Level Title 28	关卡名称 28	Level Title 28			
+229	Level Title 29	关卡名称 29	Level Title 29			
+230	Level Title 30	关卡名称 30	Level Title 30			
+231	Level Title 31	关卡名称 31	Level Title 31			
+232	Level Title 32	关卡名称 32	Level Title 32			
+233	Level Title 33	关卡名称 33	Level Title 33			
+234	Level Title 34	关卡名称 34	Level Title 34			
+235	Level Title 35	关卡名称 35	Level Title 35			
+236	Level Title 36	关卡名称 36	Level Title 36			
+237	Level Title 37	关卡名称 37	Level Title 37			
+238	Level Title 38	关卡名称 38	Level Title 38			
+239	Level Title 39	关卡名称 39	Level Title 39			
+240	Level Title 40	关卡名称 40	Level Title 40			
+241	Level Title 41	关卡名称 41	Level Title 41			
+242	Level Title 42	关卡名称 42	Level Title 42			
+243	Level Title 43	关卡名称 43	Level Title 43			
+244	Level Title 44	关卡名称 44	Level Title 44			
+245	Level Title 45	关卡名称 45	Level Title 45			
+246	Level Title 46	关卡名称 46	Level Title 46			
+301	No more zombie girls#nfor you to kill!	这里再也没有僵尸娘#n可以让你虐了……	Level Description 1			
+302	Kill all the zombiegals#nbefore timeout	在限定时间内，杀死#n入侵的僵尸娘	Level Description 2			
+303	Kill all the zombiegals#nto survive	坚守阵地，击毙所有#n入侵的僵尸娘	Level Description 3			
+304	Kill all the zombiegals#nto escape	闯过关卡，杀死所有#n的僵尸娘	Level Description 4			
+305	Infinite	无限生存挑战关卡	Infinite			
+306	Level Description 6	关卡描述 6	Level Description 6			
+307	Level Description 7	关卡描述 7	Level Description 7			
+308	Level Description 8	关卡描述 8	Level Description 8			
+309	Level Description 9	关卡描述 9	Level Description 9			
+310	Level Description 10	关卡描述 10	Level Description 10			
+311	Best Score	最高分	ff			
+312	Total Score	总分	ff			
+313	New Record	新纪录	ff			
+314	Rank	排行榜	Rank			
+315	Challenge Accomplished	挑战完成	Challenge Finished			
+316	Master will you leave?	主人要走了喵？	Exit?			
+317	I'll back soon.	我还会回来哒~	YES			
+318	Press by Mistake	按错了~	NO			
+319	Daily Bonus	每日登陆奖励	Daily Award			
+320	Day #1	第#1天	Day			
+321	Today	今天	Today			
+322	Medal×#1	勋章×#1	Hard Coin			
+323	Coin×#1	金币×#1	Soft Coin			
+324	Resurrect×#1	复活×#1	Resurrect			
+351	Victory!	胜利！	Completed!			
+352	Defeated…	失败…	Failed…			
+353	Continue	继续	Continue			
+354	Options	设置	Setup			
+355	Sound On	音效开	Sound On			
+356	Sound Off	音效关	Sound Off			
+357	Music On	音乐开	Music On			
+358	Music Off	音乐关	Music Off			
+359	Hardcore	重口味	GFX High			
+360	Casual	小清新	GFX Low			
+361	REC	推荐	REC			
+362	SALE	五折	SALE			
+363	NEW	新	NEW			
+364	Save Me	救救我	Save Me			
+365	Free	免费	Free			
+366	On Sale	今日特价	Daily Bonus			
+367	Check it Out	快去抢购	Daily Bonus			
+368	91 beans	个91豆	F91			
+369	Store Connection Error	连接在线商店失败... %>_<%	Open IAP Faild			
+370	Connecting to Store...	在线商店连接中…	Connect			
+371	Left	待领取	Wait			
+372	Get it!	领取	Take			
+373	1.Tap the gift box to Earn Free Medals.#n2.Go to http://tapjoy.com using your iOS#ndevice tap on Zombiegal to Earn Medals	1、任选一个礼盒，并从中下载应用#n2、打开刚下载的应用，并运行至少10秒#n3、稍后返回这里，点击下面按钮领取勋章	Mis			
+374	XXX	主人你已经领过50勋#n章了，重复领取是#n赖皮行为哦~	Taken			
+375	XXX	感谢主人对伦家的支#n持，快去领取50勋#n章啵~	Not Taken			
+376	Teammate Off Line	队友掉线	Off Line			
+377	CN CV	国语配音	CV On			
+378	CV Off	配音关	CV Off			
+379	Freeze	冰冻	Freeze			
+380	Burn	燃烧	Burn			
+381	Heal	治疗	Heal			
+382	HP	生命值	HP			
+383	Time	持续	Time			
+384	Hurt Ratio	百分比伤害	Hurt Ratio			
+385	CV JP	日语配音	CV JP			
+386	CV(^-^*)	原版日语	CV_ORG_JP			
+401	Use the left joystick to control me~	左侧摇杆系指挥伦家移动滴~	Move			
+402	Use these two guys to fire~	这俩货控制开火~锵锵~	Shoot			
+403	Break boxes to get supplyments~	打掉箱子是会掉落补给的哦~	Container			
+404	Hey! Ammo is limited! 	喂喂~子弹可是有限制的哦~	Ammo			
+405	Kill these zombiegals!	干掉这些僵尸娘~就会出现终点咯~	Monster			
+406	Get into the circle to pass level	据说走到圈圈里就能过关了呢~	Destination			
+421	"Take a look at Arsenal,I'm curious..."	去格纳库瞅瞅吧~我很好奇~~~	To Store			
+422	Wow! Got a new weapon!	哇~新武器入手鸟~	Buy Succ			
+423	Wow! Got a new weapon!	哇~新武器入手鸟~	Equip			
+424	"Weapon needs upgrade, em, em XD"	武器需要升级才能更强大，恩恩~	Upgrade			
+501	"Make proper use of my#nskills, you'll find I perform#nperfectly!"	如果给本小姐搭配好技能，可#n是会让我有惊人的表现哦~	Passive			
+502	"Hey,each time you do a level#nyou use some of stamina. Don't#n forget to replenish my stamina ^ ^"	呐~呐~每次进入关卡可是很#n耗费体力的，如果体力不足，#n记得要给伦家补充体力哦~	Stamina			
+503	You not only need to purchase#nthe weapons but also need to#nupgrade them to have the best#nperformance.	武器不仅要购买，还要升级才#n能发挥出最大潜力呢~	Weapon			
+504	Note the Ammo Capacity of the#nmechanical weapons are limited.#nIf you waste bullets...XD	枪械武器都是有子弹限制的，#n浪费子弹可是会丢掉小命的哦~	Ammo			
+505	Caution! The zombies with blood#nbars are Elite Zombiegals!	注意~头上有血槽的僵尸，可#n是精英尸娘啊~	Elite			
+506	"Well, if you like me, please#nbuy me some dress up items#nin Arsenal some time XD"	偶尔也要去给伦家的格纳库里#n添两件新衣服嘛~	Costume			
+507	Hey! Give me a nice massage#nafter this round!	喂喂~打完这一关，要给我做#n按摩哦~	NonSense1			
+508	"If today is the end of the#nworld, and there is only us#nleft, what will you do to me?"	如果世界末日后，就剩下我们#n两个人，你会对我做什么吗？	NonSense2			
+509	"You are doing sth bad, don't#ndeny. don't think weird stuffs,#ndon't think I don't know that,#nyou bad boy!"	打手枪就是打手枪啦，少在那#n边想奇怪的事情，别以为#n本小姐不知道~哼~	NonSense3			
+510	Like me? Rate me 5 star :D!	喜欢伦家，就去给评个5星嘛~	NonSense4			
+530	"Not enough     , please top me up!"	"没有足够    ,快去充值吧!"	Not enough#nQuick to Buy More!			
+531	Reach Level #1 to unlock this area.	这个区域要到#1级才能解开	NNNNNNN			
+532	Bullets running out!	子弹快耗尽了，快去寻找补给呀~	NNNNNNN			
+533	Choose a level to play :)	选择一个关卡开始游戏吧~	NNNNNNN			
+534	Challenge Level has more rewards XD	完成限时关卡可获得大量奖励哦~	NNNNNNN			
+535	Kill them all before timeout!	在限定时间内杀死所有僵尸娘!!!	NNNNNNN			
+536	Kill them all to survive!	坚守阵地，击退僵尸娘的入侵!!!	NNNNNNN			
+540	"Skills unlocked, take a look^ ^"	技能已开启，快去看看啵~	NNNNNNN			
+541	Skill has to be equipped	技能也要装备之后才会生效哦~	NNNNNNN			
+542	Upgrade will make it more powerful	技能通过升级可以更强大，恩恩~	NNNNNNN			
+543	Level #1 required to unlock Co-op 	联机作战要到#1级才能解开	NNNNNNN			
+544	Co-op mode unlocked! Come to fight!	联机作战解锁~来战来战~	NNNNNNN			
+600	"Nana, how long have we been apart?"	讷讷~我们已经分开多久了呢?	NNNNNNN			
+601	Hmm! I don't want to company you at all!	哼~伦家才不想你来陪呢~	NNNNNNN			
+602	Woooo..how come you leave me alone...>.<	呜…你肿么忍心丢下伦家一人呢…	NNNNNNN			
+603	Master Sama please cum soon! I miss you so so much...>.<	主人快来么，伦家好想要你…	NNNNNNN			
+610	Purchase Failed	购买失败	NNNNNNN			
+611	Whoever hacks it is a bad egg! I am not going to play with a bad egg!	用破解工具哒都素坏淫~~~伦家才不要跟坏淫玩呢~~~	NNNNNNN			
+612	"Apple Sama told me, this payment doesn't count xD!"	Apple大大对我说~~~这次支付是无效的哦~~~	NNNNNNN			
+613	Alright...	好啵…	NNNNNNN			
+630	Game in Progress	游戏进行中	Playing			
+631	"Please don't quit co-op game,#notherwise both of you will quit."	多人模式下请勿强行退出#n否则会终止双方游戏	Not Quit			
+632	Player	玩家	Player			
+633	's Room	的房间	Room			
+634	Create Game	创建房间	Create Room			
+635	Quick Play	快速加入	Quick Join			
+636	Start	开始	Go			
+637	Waiting for teammate…	等待玩家加入…	Waiting			
+638	Escape	闯关	Escape			
+639	Survival	生存	Survival			
+640	Game Saved Online	存档已在线保存，请放心游戏~	Saved			
+641	"Saving Failed, Err:"	存档在线保存失败，错误:	Saved Failed			
+642	"Would you like to restore your Saved Game(Level #1, Time #2)"	是否要恢复历史存档（等级#1，保存于#2）?	Old Data			
+643	Restore	恢复	OK			
+644	Discard	放弃	Not			
+645	"The Saved Game(Level#1, Time#2)will be deleted, Do you want to delete or restore?"	如果放弃，历史存档（等级#1，保存于#2）将会被彻底删除，确定吗？	Again			
+646	Delete	删除	OK			
+647	Restore	恢复	Not			
+648	Restore Saved Game	发现历史存档	LLL			
+649	Warning!	警告！	ddd			
+650	Please choose which game you want to continue	请选择要使用的存档	Old Data			
+651	"Saved Game(Level #1, Time #2)"	历史存档（等级#1，保存于#2）	AAA			
+652	Current Game(Level #1)	当前存档（等级#1）	BB			
+653	"If you choose the Current Game, the Saved Game(Level#1) will be deleted, Sure?"	选择当前存档后，历史存档（等级#1）将会被删除，确定吗？	LLL			
+654	"If you choose the Saved Game, the Current Game(Level#1) will be deleted, Sure?"	选择历史存档后，当前存档（等级#1）将会被删除，确定吗？	DDD			
+655	Ok	确定	EEE			
+656	Cancel	取消	FFF			
+660	Warning!	警告！	Warning			
+661	Alright...	好啵…	Ok			
+662	Note	提示	A			
+663	Wifi connection is recommended to play Co-op mode.	您当前的网络状态，不适合进行联机游戏，建议在Wi-Fi网络下连接	A			
+664	"Unstable network condition to create a game, Qucik Play recommended."	您当前的网络状态，不适合创建房间，但是可以加入他人创建的游戏，建议在Wi-Fi网络下连接	B			
+665	Error	错误	B			
+666	Connecting to server failed	主服务器连接失败…	C			
+667	Connection Failed	服务器连接失败…	C			
+668	Waiting…	等待房主开始游戏	D			
+669	"Player#1, Fight!"	玩家#1，来战！	D			
+670	Daily Mission	每日任务	E			
+671	XXX	完成#1局多人游戏，可额外获得	E			
+672	XXX	×#1  (#2/#3)未完成	E			
+673	XXX	×#1  (#2/#3)待领取	E			
+674	Really appreciate it!	衷心感谢！	E			
+675	XXX	感谢主人对伦家的支持，快去领取100勋章啵~	E			
+676	Aha~	啊咧~	E			
+677	Your level is too low to enter this room.	你还没打到这一关，无法加入这个房间哦~	E			
+678	Updates Needed!	游戏需要更新	E			
+679	Version checking…new updates needed to start the game!	对不起，您的游戏版本过低，请更新游戏后再进入联机作战	E			
+680	Updating…	更新游戏	E			
+681	In-App-Purchase Verification ime out!	游戏内购买验证超时	E			
+682	Purchase will be verified next time when you back to the store	下次进入银行界面时，会自动重新验证	E			
+683	"Whoever hacks it is a bad egg! Save data has been initialized, if you have any question please contact: cs@mihoyo.com"	用内购破解的都素坏淫！存档已重置，如有问题，请联系QQ:2243269468	E			
+701	NULL	NULL	Pistol_C			
+702	NULL	NULL	Pistol_B			
+703	NULL	NULL	Pistol_A			
+704	NULL	NULL	Shotgun_C			
+705	NULL	NULL	Shotgun_B			
+706	NULL	NULL	Shotgun_A			
+707	NULL	NULL	Autogun_C			
+708	NULL	NULL	Autogun_B			
+709	NULL	NULL	Autogun_A			
+710	"<color=#ff99ccff>Hold the fire button to#nready your shot, Sniper#npierces through multiple#nzombiegals with heavy#ndamage.</color>"	<color=#ff99ccff>狙击枪要长按直到出现#n红线后击发，伤害很高#n并且可以穿透一条直线</color>	Sniper_C			
+711	"<color=#ff99ccff>Hold the fire button to#nready your shot, Sniper#npierces through multiple#nzombiegals with heavy#ndamage.</color>"	<color=#ff99ccff>狙击枪要长按直到出现#n红线后击发，伤害很高#n并且可以穿透一条直线</color>	Sniper_B			
+712	"<color=#ff99ccff>Hold the fire button to#nready your shot, Sniper#npierces through multiple#nzombiegals with heavy#ndamage.</color>"	<color=#ff99ccff>狙击枪要长按直到出现#n红线后击发，伤害很高#n并且可以穿透一条直线</color>	Sniper_A			
+713	NULL	NULL	Pistol_D			
+714	NULL	NULL	Augogun_D			
+715	NULL	NULL	RPG_B			
+716	NULL	NULL	RPG_A			
+717	NULL	NULL	Zigzaw_A			
+718	NULL	NULL	Near_C			
+719	NULL	NULL	Near_B			
+720	NULL	NULL	Near_A			
+721	"<color=#ff99ccff>Special Shotgun, shot one#nbullet each time with#nheavy damage, pierces#nthrough the targets.</color>"	<color=#ff99ccff>一次只发射一颗子弹的#n霰弹枪。威力强大并具#n有一定的穿透力</color>	Shotgun_D			
+722	"<color=#ff99ccff>It provides a wild range of#nfreezing attacking,#nwhich can freeze the#nzombiegals instantly.</color>"	<color=#ff99ccff>具有出色的范围冰冻能#n力，可以把僵尸娘大军#n瞬间冻成冰雕</color>	Shotgun_E			
+723	"<color=#ff99ccff>It cures you and your#nteammates, which is very#nuseful.</color>"	<color=#ff99ccff>可以在战斗中快速治疗#n自己和队友，非常实用</color>	Spray_A			
+724	"<color=#ff99ccff>Kiana's Dummies, attract#nall nearby zombies for a#nshort time.</color>"	<color=#ff99ccff>Kiana仿制人形，会吸#n引僵尸娘的攻击注意#n力哦~</color>	Throw_A			
+725	"<color=#ff99ccff>After explosion the#nfrangible grenade leaves#nan area of burning fire,#nwhich deals damage#ncontinuously.</color>"	<color=#ff99ccff>燃烧弹爆炸后能留下一#n片火焰，持续的造成#n高额伤害</color>	Throw_B			
+726	NULL	NULL	Throw_C			
+727	"<color=#ff99ccff>A mine full of#nundiscovered power, it#ndeals damage according#nto the target's HP.</color>"	<color=#ff99ccff>充满了神秘能量的地雷，#n直接根据目标HP的按比#n例造成伤害</color>	Throw_D			
+728	NULL	NULL	Throw_E			
+750	<color=#ff99ccff>All locked weapons can#nbe purchased by medals.</color>	<color=#ff99ccff>未解锁的武器，也可#n以直接用勋章购买哦~</color>	Use Hard Coin To Unlock Weapon			
+751	Unlock 3rd Weapon	解锁第3个武器槽	Weapon Slot Unlock			
+799	Points:#1 Completed:#2%	总成就点:#1  完成度:#2%	AtT			
+800	Points	成就点	Points			
+801	Spoiled Girl	大小姐	Achieve T 1 			
+802	Princess 	公主殿下	Achieve T 2			
+803	Queen Sama	女王大人	Achieve T 3			
+804	Exception Detected	发现异常	Achieve T 4			
+805	System Error	系统错误	Achieve T 5			
+806	Equipment Exploded 	设备暴走	Achieve T 6			
+807	Little Seme	小攻	Achieve T 7			
+808	Prince Seme	健气攻	Achieve T 8			
+809	King Seme	霸气帝王攻	Achieve T 9			
+810	Cunning Earl	腹黑伯爵	Achieve T 10			
+811	Cunning Marquis	腹黑侯爵	Achieve T 11			
+812	Cunning Duke	腹黑公爵	Achieve T 12			
+813	Ball Pain	蛋疼	Achieve T 13			
+814	Cut Wrist Pain	割腕疼	Achieve T 14			
+815	Childbirth Pain	分娩疼	Achieve T 15			
+816	Hand Ache	手酸	Achieve T 16			
+817	Heart Ache	心酸	Achieve T 17			
+818	Breast Ache	乳酸	Achieve T 18			
+819	My Friend is Rare	我的朋友很少	Achieve T 19			
+820	My Friend is Still Rare	我的朋友还是很少	Achieve T 20			
+821	My Friend is Really Rare	我的朋友真的很少	Achieve T 21			
+822	I Want a Date!	中二病也要谈恋爱	Achieve T 22			
+823	Gluttony	吃货	Achieve T 23			
+824	Sick to Collection	重度收集症患者	Achieve T 24			
+825	Die-if-no-coin-planet	不吃金币会死星人	Achieve T 25			
+826	Contract Finished	契约完成	Achieve T 26			
+827	You are My Master	你是我的Master	Achieve T 27			
+828	You are My Sheath	你就是我的剑鞘啊	Achieve T 28			
+829	Amaterasu 	天照	Achieve T 29			
+830	Tsukuyomi	月读	Achieve T 30			
+831	Susanoo	须佐之男	Achieve T 31			
+832	The Lost Lady Die	败犬去死	Achieve T 32			
+833	Super Fashion Girl	超级变装少女	Achieve T 33			
+834	Infinite Clothing	偶滴衣橱在异次元	Achieve T 34			
+835	This is My Way	这就是我的忍道	Achieve T 35			
+836	"Hole, Hole, Hole"	开洞 开洞 开洞	Achieve T 36			
+837	Murrue Ramius! Fire!	开炮!玛琉·拉米亚斯	Achieve T 37			
+838	Consciousness be Shot	拥有被射杀觉悟之人	Achieve T 38			
+839	Excalibur	Excalibur	Achieve T 39			
+840	El Psy Congroo	El Psy Congroo	Achieve T 40			
+841	This is SM!	"住手少校,这是性骚扰"	Achieve T 41			
+842	Cuty Uke	小受	Achieve T 42			
+843	Princess Uke	傲娇公主受	Achieve T 43			
+844	My Lord	My Lord	Achieve T 44			
+845	All Hail My Queen	All Hail My Queen	Achieve T 45			
+846	Electric-Sun-Cannon	正阳电子炮发射	Achieve T 46			
+847	Queen Uke	抖M女王受	Achieve T 47			
+848	Yes Your Highness	Yes Your Highness	Achieve T 48			
+900	Accomplished!	成就已达成！	Achievement Accomplished			
+901	Reach Level 10	角色等级达到10级	Achievement Description 1			
+902	Reach Level 25	角色等级达到25级	Achievement Description 2			
+903	Reach Level 60	角色等级达到60级	Achievement Description 3			
+904	Completed all Challenge levels in Between Seconds	限时挑战关【分秒之间】通关	Achievement Description 4			
+905	Completed all Challenge levels in Darkness Rises	限时挑战关【黑暗的胎动】通关	Achievement Description 5			
+906	Completed all Challenge levels in The Vaule of Miracle	限时挑战关【奇迹的价值】通关	Achievement Description 6			
+907	Equipped weapons reach a total power of 200	当前装备武器的总威力值达到200	Achievement Description 7			
+908	Equipped weapons reach a total power of 800	当前装备武器的总威力值达到800	Achievement Description 8			
+909	Equipped weapons reach a total power of 2000	当前装备武器的总威力值达到2000	Achievement Description 9			
+910	Equipped three 3 star skills	同时装备3个3星技能	Achievement Description 10			
+911	Equipped three 6 star skills	同时装备3个6星技能	Achievement Description 11			
+912	Equipped three fully upgraded skills	同时装备3个满星技能	Achievement Description 12			
+913	Completed 10 levels of chapter 10 or higher	累计完成10次10章以上关卡	Achievement Description 13			
+914	Completed 100 levels of chapter 10 or higher	累计完成100次10章以上关卡	Achievement Description 14			
+915	Completed 1000 levels of chapter 10 or higher	累计完成1000次10章以上关卡	Achievement Description 15			
+916	Completed 10 levels between chapter 7 and 9	累计完成10次7至9章关卡	Achievement Description 16			
+917	Completed 100 levels between chapter 7 and 9	累计完成100次7至9章关卡	Achievement Description 17			
+918	Completed 1000 levels between chapter 7 and 9	累计完成1000次7至9章关卡	Achievement Description 18			
+919	Completed 20 levels with your co-op partner	累计完成20次联机游戏	Achievement Description 19			
+920	Completed 100 levels with your co-op partner	累计完成100次联机游戏	Achievement Description 20			
+921	Completed 200 levels with your co-op partner	累计完成200次联机游戏	Achievement Description 21			
+922	Completed 2000 levels with your co-op partner	累计完成2000次联机游戏	Achievement Description 22			
+923	"Collected a total of 10,000 conis"	累计获得10000金币	Achievement Description 23			
+924	"Collected a total of 100,000 conis"	累计获得200000金币	Achievement Description 24			
+925	"Collected a total of 1,000,000 conis"	累计获得4000000金币	Achievement Description 25			
+926	Spent 200 medals	累计花费200勋章	Achievement Description 26			
+927	"Spent 2,000 medals"	累计花费2000勋章	Achievement Description 27			
+928	"Spent 20,000 medals"	累计花费20000勋章	Achievement Description 28			
+929	Reach a combo of 15	达到15次连杀	Achievement Description 29			
+930	Reach a combo of 30	达到30次连杀	Achievement Description 30			
+931	Reach a combo of 60	达到60次连杀	Achievement Description 31			
+932	Unlock 10 dress up items	累计购买10件服装或饰品	Achievement Description 32			
+933	Unlock 20 dress up items	累计购买20件服装或饰品	Achievement Description 33			
+934	Unlock 36 dress up items	累计购买36件服装或饰品	Achievement Description 34			
+935	Vanquish 5000 zombiegals with melee weapons.	用近战武器杀掉5000个僵尸娘	Achievement Description 35			
+936	Shot 3000 zombiegals with handguns	用手枪杀掉3000个僵尸娘	Achievement Description 36			
+937	Blow up 6000 zombiegals with RPGs	用火箭筒杀掉6000个僵尸娘	Achievement Description 37			
+938	Destroyed 5000 zombiegals with automatic weapons.	用自动步枪杀掉5000个僵尸娘	Achievement Description 38			
+939	Killed 5000 zombiegals with shotguns	用散弹枪杀掉5000个僵尸娘	Achievement Description 39			
+940	Liquify 5000 zombiegals with explosives.	用雷炸掉5000个僵尸娘	Achievement Description 40			
+941	Slaughter 500 zombiegals who under freezing	杀死500个处于冰冻状态下的僵尸娘	Achievement Description 41			
+942	Resurrect 10 times	累计复活10次	Achievement Description 42			
+943	Resurrect 30 times	累计复活30次	Achievement Description 43			
+944	Achievement points reach 100	解锁成就点数达到100	Achievement Description 44			
+945	Achievement points reach 500	解锁成就点数达到500	Achievement Description 45			
+946	Slay 5000 zombiegals with snipers	用狙击枪杀掉5000个僵尸娘	Achievement Description 46			
+947	Resurrect 100 times	累计复活100次	Achievement Description 47			
+948	Achievement points reach 300	解锁成就点数达到300	Achievement Description 48			
+1000	SelectBuff	请任选一项奖励:	SelectBuff			
+1001	HP#1%	HP上限提高#1%	HP#1%			
+1002	Ammo#1%	弹药上限提高#1%	Ammo#1%			
+1003	Atk#1%	攻击力提高#1%	Atk#1%			
+1004	Life#1	+1次免费复活	Life#1			
+1005	Store#1	1次更换装备机会	Store#1			
+1011	HP+#1%	HP+#1%	HP+#1%			
+1012	Ammo+#1%	弹药+#1%	Ammo+#1%			
+1013	ATK+#1%	攻击+#1%	ATK+#1%			
+1014	Lifex1	复活×#1	Lifex1			
+1015	Fight	，来战！	Fight			
+1100	Your ID is: 	你的ID为：	Your ID is: 			
+1101	XXX	通过用户ID添加好友	XXX			
+1102	XXX	输入好友数字ID	XXX			
+1103	XXX	网络连接错误，请稍后再试	XXX			
+1104	XXX	啊咧~找不到这个用户ID呦~	XXX			
+1105	XXX	你已经达到#1个好友的上限啦~#n只有删除现有好友，才能继续添加	XXX			
+1106	XXX	这位朋友的好友数已经达到上限啦~	XXX			
+1107	XXX	休息一下啵，交友太频繁会伤身哒~	XXX			
+1108	XXX	主人~他（她）已经是你的好友啦~	XXX			
+1109	XXX	添 加	XXX			
+1110	XXX	接 受	XXX			
+1111	XXX	忽 略	XXX			
+1112	XXX	删除好友	XXX			
+1113	XXX	修改昵称	XXX			
+1114	XXX	戳一下	XXX			
+1115	XXX	我自己	XXX			
+1116	XXX	主人好可怜哦，都没人和你互动呢，#n不如我们先去骚扰骚扰他们啵~	XXX			
+1117	XXX	请输入一个新昵称	XXX			
+1118	XXX	包含非法字符，请重新输入	XXX			
+1119	XXX	确 认	XXX			
+1120	XXX	邀请已成功发送，请等待好友回应	XXX			
+1121	XXX	未知错误，确认好友失败	XXX			
+1122	XXX	希望成为你的好友哦~	XXX			
+1123	XXX	主人~已经请求过了呢~	XXX			
+1124	XXX	该用户已被封禁~~(>_<)~~	XXX			
+1125	XXX	你们刚刚并肩作战呦~	XXX			
+1126	XXX	要加为好友喵？	XXX			
+1127	XXX	仅限好友加入	XXX			
+1128	XXX	获得邀请码奖励	XXX			
+1129	XXX	等级#1解锁	XXX			
+1130	XXX	输入一个邀请码	XXX			
+1131	XXX	您的等级还不够	XXX			
+1132	XXX	验证成功，请在通知页面领取奖励	XXX			
+1133	XXX	网络连接错误，请稍后再试	XXX			
+1134	XXX	邀请码错误，请重新输入哦	XXX			
+1135	XXX	领 取	XXX			
+1136	XXX	提示：主人~把你的邀请码发给朋#n友们，请他们安装游戏并验证邀请#n码，你就会获得奖励勋章啦~!	XXX			
+1137	XXX	我的邀请码是：#1	XXX			
+1138	XXX	邀请更多好友，每位可送您#1个勋章	XXX			
+1139	XXX	尼玛#崩坏学园#这游戏萌的一口血，全妹纸动作玩#n法，苹果商店免费下载#1#n安装游戏，验证我的邀请码#2，立刻#n就能领礼包啦，一般人我还不告诉他呢~	XXX			
+1140	XXX	分享入口：	XXX			
+1141	XXX	邀请好友奖励	XXX			
+1142	XXX	主人你又偷拍伦家啦~#n才不要被分享到微博呢！	XXX			
+1143	XXX	分享到微博	XXX			
+1144	XXX	笨蛋主人！自己怎么能添加自己呢！~	XXX			
+1145	XXX	受邀成为你的好友，请领取#1个勋章奖励~	XXX			
+1146	XXX	邀请码验证成功，获得#1个勋章奖励~	XXX			
+1147	XXX	系统消息	XXX			
+1148	XXX	通知验证失败或已过期	XXX			
+1149	XXX	西元#1主人又在#崩坏学园#偷拍伦家了，ID是#2，官博姐姐@米哈游miHoYo 快来为伦家主持公道嘛~~	XXX			
+1150	XXX	这位好友将被删除，你也会从对方的好友列表中消失，确定么？	XXX			
+1151	XXX	微博发送成功	XXX			
+1152	XXX	快去找好友们扩散吧~	XXX			
+1153	XXX	无法添加好友	XXX			
+1200	Connect to IAP Verification Failed.	连接IAP验证服务器失败... %>_<%	Open IAP Faild			

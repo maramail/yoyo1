@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\GitHub\gogogo\CocoStudio\ccsprojs\ui_equipment_list</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>D:\GitHub\gogogo</Resources>
+  <Name>ui_equipment_list</Name>
+  <JsonFileName>ui_equipment_list.json</JsonFileName>
+  <JsonFolder>D:\GitHub\gogogo\CocoStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>D:\GitHub\gogogo\CocoStudio\ccsprojs\ui_equipment_list\ui_equipment_list.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>D:\GitHub\gogogo\CocoStudio\assets</Res>
+</SceneProject>

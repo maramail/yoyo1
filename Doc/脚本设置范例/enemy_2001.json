@@ -1,0 +1,15 @@
+{
+  "hp": 200,
+  "attack": 5,
+  "defense": 1,
+  "def_type": 1,
+  "move_speed": 90,
+  "armature": "creature/geboneA1_8/geboneA1.ExportJson",
+  "word":"I am the boss, I talk...",
+  "spell_list": [
+  	5,1
+  ],
+  "cd_list": [
+  	6,2
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  "ui/bg/act-menu0.png",
+  "ui/topmenu/act-menu0.png",
+  "ui/quickmenu/act-menu0.png",
+  "ui/equipment_nowlist/act-menu0.png",
+  "ani/charactor/testbody1/geboneA10.png",
+  "ani/charactor/testbody1/geboneA11.png",
+  "publish\\ui_equip_nowlist.json",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\bg\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\topmenu\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\quickmenu\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ui\\equipment_nowlist\\act-menu0.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ani\\charactor\\testbody1\\geboneA10.plist",
+  "D:\\GitHub\\gogogo\\CocoStudio\\assets\\ani\\charactor\\testbody1\\geboneA11.plist",
+  "ui/bg/bg.ExportJson",
+  "ui/topmenu/topmenu.ExportJson",
+  "ui/quickmenu/quickmenu.ExportJson",
+  "ui/equipment_nowlist/equipment_nowlist.ExportJson",
+  "ani/charactor/testbody1/geboneA1.ExportJson"
+]
