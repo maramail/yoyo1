@@ -3421,7 +3421,7 @@
         },
         {
           "name": "dead",
-          "dr": 31,
+          "dr": 30,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -4459,7 +4459,7 @@
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 2.0,
+          "sc": 1.33333337,
           "mov_bone_data": [
             {
               "name": "shield",
@@ -5268,7 +5268,7 @@
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 2.0,
+          "sc": 1.33333337,
           "mov_bone_data": [
             {
               "name": "shield",
@@ -5927,7 +5927,7 @@
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 2.0,
+          "sc": 1.33333337,
           "mov_bone_data": [
             {
               "name": "shield",
