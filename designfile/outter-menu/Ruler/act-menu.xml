@@ -9,10 +9,6 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>quickmenu</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
     <Project>questmap</Project>
     <GuidesList />
   </GuidesProject>
@@ -54,6 +50,10 @@
   </GuidesProject>
   <GuidesProject>
     <Project>info_window_confirm_quest</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>elf</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

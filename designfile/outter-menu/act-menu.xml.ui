@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectDir>D:\GitHub\yoyo1\designfile\outter-menu</ProjectDir>
-  <Version>1.4.0.1</Version>
+  <Version>1.6.0.0</Version>
   <Resources>D:\GitHub\yoyo1\designfile\outter-menu\Resources</Resources>
   <Name>act-menu</Name>
   <JsonFileName>act-menu.json</JsonFileName>
@@ -9,7 +9,6 @@
   <JsonList>
     <string>bg.json</string>
     <string>topmenu.json</string>
-    <string>quickmenu.json</string>
     <string>index.json</string>
     <string>questmap.json</string>
     <string>equipment_list.json</string>
@@ -20,6 +19,7 @@
     <string>info_window_confirm.json</string>
     <string>info_window_confirm_yn.json</string>
     <string>info_window_confirm_quest.json</string>
+    <string>elf.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1024</Width>
@@ -33,5 +33,5 @@
   </imageFileList>
   <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>index.json</CurrentUIJson>
+  <CurrentUIJson>topmenu.json</CurrentUIJson>
 </UIProject>
