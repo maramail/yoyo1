@@ -5,19 +5,11 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_confirm</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
     <Project>topmenu</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
     <Project>quickmenu</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
-    <Project>info_window_confirm_yn</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -37,10 +29,6 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_confirm2</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
     <Project>info_window_longpressA</Project>
     <GuidesList />
   </GuidesProject>
@@ -57,7 +45,15 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_story</Project>
+    <Project>info_window_confirm</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>info_window_confirm_yn</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>info_window_confirm_quest</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

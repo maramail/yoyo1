@@ -12,9 +12,7 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [
-    "act-menu0.png"
-  ],
+  "texturesPng": [],
   "version": "1.4.0.1",
   "widgetTree": {
     "classname": "Panel",
@@ -39,7 +37,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 355,
+          "height": 313,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -47,8 +45,8 @@
           "positionPercentY": 0.524739563,
           "positionType": 0,
           "rotation": 0,
-          "scaleX": 1,
-          "scaleY": 1,
+          "scaleX": 1.0100553,
+          "scaleY": 1.016384,
           "sizePercentX": 1,
           "sizePercentY": 0.4622396,
           "sizeType": 0,
@@ -56,7 +54,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 1024,
+          "width": 1020,
           "x": 513,
           "y": 403,
           "capInsetsHeight": 1,
@@ -65,13 +63,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "ui_infowin1.png",
+            "path": "talkbg.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 355,
-          "scale9Width": 1024
+          "scale9Height": 313,
+          "scale9Width": 1020
         }
       },
       {
@@ -226,7 +224,7 @@
       "classname": "Panel",
       "name": "all",
       "ZOrder": 0,
-      "actiontag": -1,
+      "actiontag": 1,
       "anchorPointX": 0,
       "anchorPointY": 0,
       "classType": "CocoStudio.EngineAdapterWrap.CSPanel",

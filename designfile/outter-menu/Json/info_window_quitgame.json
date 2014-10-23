@@ -12,9 +12,7 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [
-    "act-menu0.png"
-  ],
+  "texturesPng": [],
   "version": "1.4.0.1",
   "widgetTree": {
     "classname": "Panel",
@@ -226,7 +224,7 @@
       "classname": "Panel",
       "name": "all",
       "ZOrder": 0,
-      "actiontag": 1,
+      "actiontag": -1,
       "anchorPointX": 0,
       "anchorPointY": 0,
       "classType": "CocoStudio.EngineAdapterWrap.CSPanel",
