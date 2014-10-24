@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GuidesProject>
-    <Project>index</Project>
+    <Project>f_index</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>topmenu</Project>
+    <Project>f_topmenu</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>questmap</Project>
+    <Project>f_questmap</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -37,23 +37,27 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_quitgame</Project>
+    <Project>f_info_window_quitgame</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_confirm</Project>
+    <Project>f_info_window_confirm</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_confirm_yn</Project>
+    <Project>f_info_window_confirm_yn</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>info_window_confirm_quest</Project>
+    <Project>f_info_window_confirm_quest</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
     <Project>f_elf</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>f_info_window_missionlist</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

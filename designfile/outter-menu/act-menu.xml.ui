@@ -11,15 +11,16 @@
     <string>f_elf.json</string>
     <string>equipment_list.json</string>
     <string>f_equipment_nowlist.json</string>
-    <string>index.json</string>
-    <string>info_window_confirm.json</string>
-    <string>info_window_confirm_quest.json</string>
-    <string>info_window_confirm_yn.json</string>
+    <string>f_index.json</string>
+    <string>f_info_window_confirm.json</string>
+    <string>f_info_window_confirm_quest.json</string>
+    <string>f_info_window_confirm_yn.json</string>
     <string>info_window_continue.json</string>
     <string>info_window_longpressA.json</string>
-    <string>info_window_quitgame.json</string>
-    <string>questmap.json</string>
-    <string>topmenu.json</string>
+    <string>f_info_window_quitgame.json</string>
+    <string>f_questmap.json</string>
+    <string>f_topmenu.json</string>
+    <string>f_info_window_missionlist.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1024</Width>
@@ -31,7 +32,9 @@
   <imageFileList>
     <string>act-menu0.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>act-menu0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>f_equipment_nowlist.json</CurrentUIJson>
+  <CurrentUIJson>f_topmenu.json</CurrentUIJson>
 </UIProject>
