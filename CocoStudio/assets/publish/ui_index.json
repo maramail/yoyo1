@@ -71,7 +71,7 @@
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
       "name": "elf",
-      "canedit": true,
+      "canedit": false,
       "objecttag": 10009,
       "rotation": 0,
       "scalex": 1,
@@ -98,15 +98,43 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": "mahojin",
-      "canedit": true,
-      "objecttag": 10007,
+      "name": "bg",
+      "canedit": false,
+      "objecttag": 10003,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 571.6217041015625,
-      "y": 417.56759643554688,
+      "x": 0,
+      "y": 0,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "ui/f_bg/f_bg.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "mahojin1",
+      "canedit": true,
+      "objecttag": 10012,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 190.00006103515625,
+      "y": 256.00006103515625,
       "zorder": 1,
       "gameobjects": [],
       "components": [
@@ -122,34 +150,6 @@
           },
           "isShowColliderRect": false,
           "selectedactionname": "Animation2"
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": "bg",
-      "canedit": false,
-      "objecttag": 10003,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 0,
-      "y": 0,
-      "zorder": 0,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "GUIComponent",
-          "name": "GUIComponent",
-          "file": null,
-          "fileData": {
-            "path": "ui/f_bg/f_bg.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          }
         }
       ]
     }
