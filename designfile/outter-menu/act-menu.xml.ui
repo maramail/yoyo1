@@ -33,5 +33,5 @@
   </imageFileList>
   <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>bg.json</CurrentUIJson>
+  <CurrentUIJson>topmenu.json</CurrentUIJson>
 </UIProject>
