@@ -7,10 +7,10 @@
   <JsonFileName>act-menu.json</JsonFileName>
   <JsonFolder>D:\GitHub\yoyo1\designfile\outter-menu\Json</JsonFolder>
   <JsonList>
-    <string>bg.json</string>
-    <string>elf.json</string>
+    <string>f_bg.json</string>
+    <string>f_elf.json</string>
     <string>equipment_list.json</string>
-    <string>equipment_nowlist.json</string>
+    <string>f_equipment_nowlist.json</string>
     <string>index.json</string>
     <string>info_window_confirm.json</string>
     <string>info_window_confirm_quest.json</string>
@@ -33,5 +33,5 @@
   </imageFileList>
   <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>topmenu.json</CurrentUIJson>
+  <CurrentUIJson>f_equipment_nowlist.json</CurrentUIJson>
 </UIProject>

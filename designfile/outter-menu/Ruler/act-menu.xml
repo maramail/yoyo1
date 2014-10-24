@@ -17,11 +17,11 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>equipment_nowlist</Project>
+    <Project>f_equipment_nowlist</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>bg</Project>
+    <Project>f_bg</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -53,7 +53,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>elf</Project>
+    <Project>f_elf</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>
