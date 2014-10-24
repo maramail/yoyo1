@@ -70,34 +70,6 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": "elf",
-      "canedit": false,
-      "objecttag": 10009,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": -79.729736328125,
-      "y": 20.270294189453125,
-      "zorder": 2,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "GUIComponent",
-          "name": "GUIComponent",
-          "file": null,
-          "fileData": {
-            "path": "ui/f_elf/f_elf.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          }
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
       "name": "bg",
       "canedit": false,
       "objecttag": 10003,

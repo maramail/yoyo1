@@ -1,18 +1,19 @@
 <?xml version="1.0"?>
 <GameProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>D:\GitHub\yoyo1\yiqilaidaguai</ProjectDir>
-  <Version>1.3.0.0</Version>
-  <Resources>D:\GitHub\yoyo1\yiqilaidaguai</Resources>
+  <ProjectDir>D:\GitHub\yoyo1</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\GitHub\yoyo1</Resources>
   <Name>yiqilaidaguai</Name>
   <JsonFileName>yiqilaidaguai.json</JsonFileName>
+  <JsonList />
   <CanvasSize>
     <Width>480</Width>
     <Height>320</Height>
   </CanvasSize>
-  <filePath>D:\GitHub\yoyo1\yiqilaidaguai\yiqilaidaguai.xml.ccsproj</filePath>
+  <filePath>D:\GitHub\yoyo1\yiqilaidaguai.xml.ccsproj</filePath>
   <ProjectType>GameProject</ProjectType>
   <ResRelativePath />
-  <ResProjFolder>D:\GitHub\yoyo1\yiqilaidaguai\CocoStudio\ccsprojs</ResProjFolder>
-  <AssetsDir>D:\GitHub\yoyo1\yiqilaidaguai\CocoStudio\assets</AssetsDir>
+  <ResProjFolder>D:\GitHub\yoyo1\CocoStudio\ccsprojs</ResProjFolder>
+  <AssetsDir>D:\GitHub\yoyo1\CocoStudio\assets</AssetsDir>
   <LanaguageType>cpp</LanaguageType>
 </GameProject>
