@@ -950,7 +950,7 @@
         },
         {
           "name": "standing",
-          "dr": 30,
+          "dr": 31,
           "lp": true,
           "to": 0,
           "drTW": 0,
@@ -1519,7 +1519,7 @@
         },
         {
           "name": "running",
-          "dr": 30,
+          "dr": 31,
           "lp": true,
           "to": 0,
           "drTW": 0,
@@ -2732,7 +2732,7 @@
         },
         {
           "name": "jump",
-          "dr": 26,
+          "dr": 25,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -3421,7 +3421,7 @@
         },
         {
           "name": "dead",
-          "dr": 31,
+          "dr": 30,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -4454,7 +4454,7 @@
         },
         {
           "name": "attack1",
-          "dr": 41,
+          "dr": 40,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -5263,7 +5263,7 @@
         },
         {
           "name": "attack2",
-          "dr": 41,
+          "dr": 40,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -5922,7 +5922,7 @@
         },
         {
           "name": "attack3",
-          "dr": 41,
+          "dr": 40,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -6716,7 +6716,7 @@
         },
         {
           "name": "expower",
-          "dr": 41,
+          "dr": 40,
           "lp": false,
           "to": 0,
           "drTW": 0,

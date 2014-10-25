@@ -34,9 +34,9 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>1022</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>315</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -53,9 +53,9 @@
 				<key>originalHeight</key>
 				<integer>80</integer>
 				<key>x</key>
-				<integer>1206</integer>
+				<integer>184</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>315</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -72,9 +72,9 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>1390</integer>
+				<integer>368</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>315</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -91,9 +91,9 @@
 				<key>originalHeight</key>
 				<integer>80</integer>
 				<key>x</key>
-				<integer>1574</integer>
+				<integer>552</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>315</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -110,9 +110,9 @@
 				<key>originalHeight</key>
 				<integer>78</integer>
 				<key>x</key>
-				<integer>1758</integer>
+				<integer>736</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>315</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -131,7 +131,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>315</integer>
+				<integer>397</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -147,14 +147,14 @@
 			<key>realTextureFileName</key>
 			<string>act-menu0.png</string>
 			<key>size</key>
-			<string>{2048,2048}</string>
+			<string>{1024,1024}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>2048</integer>
+			<integer>1024</integer>
 			<key>height</key>
-			<integer>2048</integer>
+			<integer>1024</integer>
 		</dict>
 	</dict>
 </plist>

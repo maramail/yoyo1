@@ -12,7 +12,9 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "act-menu0.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -105,7 +107,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 627,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -122,7 +124,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 1035,
+          "width": 80,
           "x": 516,
           "y": 383,
           "capInsetsHeight": 1,
@@ -131,13 +133,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "ui_light_window_bg.png",
+            "path": "C:\\Program Files\\Cocos Studio\\EditorDefaultRes\\GUI/image.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 2
           },
           "scale9Enable": false,
-          "scale9Height": 627,
-          "scale9Width": 1035
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {

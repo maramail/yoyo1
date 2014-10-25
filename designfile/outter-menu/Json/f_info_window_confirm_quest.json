@@ -329,7 +329,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 280,
+          "width": 320,
           "x": 505,
           "y": 334,
           "areaHeight": 0,
@@ -338,7 +338,7 @@
           "fontName": "微软雅黑",
           "fontSize": 20,
           "hAlignment": 0,
-          "text": "裝備光子此事百分百掉裝備喔！",
+          "text": "每次装备光子磁石百分百掉装备喔！",
           "touchScaleEnable": false,
           "vAlignment": 0
         }

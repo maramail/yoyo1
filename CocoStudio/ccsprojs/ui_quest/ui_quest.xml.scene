@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>D:\GitHub\gogogo\CocoStudio\ccsprojs\ui_quest</ProjectDir>
-  <Version>1.4.0.1</Version>
-  <Resources>D:\GitHub\gogogo</Resources>
+  <ProjectDir>D:\GitHub\yoyo1\CocoStudio\ccsprojs\ui_quest</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\GitHub\yoyo1</Resources>
   <Name>ui_quest</Name>
   <JsonFileName>ui_quest.json</JsonFileName>
-  <JsonFolder>D:\GitHub\gogogo\CocoStudio\assets\publish</JsonFolder>
+  <JsonFolder>D:\GitHub\yoyo1\CocoStudio\assets\publish</JsonFolder>
   <JsonList />
   <CanvasSize>
     <Width>1024</Width>
     <Height>768</Height>
   </CanvasSize>
-  <filePath>D:\GitHub\gogogo\CocoStudio\ccsprojs\ui_quest\ui_quest.xml.scene</filePath>
+  <filePath>D:\GitHub\yoyo1\CocoStudio\ccsprojs\ui_quest\ui_quest.xml.scene</filePath>
   <ProjectType>SceneProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
   <JSFileList />
   <DefaultUI_JSList />
-  <Res>D:\GitHub\gogogo\CocoStudio\assets</Res>
+  <Res>D:\GitHub\yoyo1\CocoStudio\assets</Res>
 </SceneProject>

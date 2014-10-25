@@ -23,7 +23,7 @@
       "visible": 1,
       "x": 0,
       "y": 0,
-      "zorder": 1,
+      "zorder": 0,
       "gameobjects": [],
       "components": [
         {
@@ -32,7 +32,7 @@
           "name": "GUIComponent",
           "file": null,
           "fileData": {
-            "path": "ui/bg/bg.ExportJson",
+            "path": "ui/f_bg/f_bg.ExportJson",
             "plistFile": "",
             "resourceType": 0
           }
@@ -49,9 +49,9 @@
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 0,
-      "y": 0,
-      "zorder": 4,
+      "x": -8,
+      "y": 2,
+      "zorder": 7,
       "gameobjects": [],
       "components": [
         {
@@ -60,35 +60,7 @@
           "name": "GUIComponent",
           "file": null,
           "fileData": {
-            "path": "ui/topmenu/topmenu.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          }
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": "quickmenu",
-      "canedit": true,
-      "objecttag": 10012,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 0,
-      "y": 0,
-      "zorder": 4,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "GUIComponent",
-          "name": "GUIComponent",
-          "file": null,
-          "fileData": {
-            "path": "ui/quickmenu/quickmenu.ExportJson",
+            "path": "ui/f_topmenu/f_topmenu.ExportJson",
             "plistFile": "",
             "resourceType": 0
           }
@@ -107,7 +79,7 @@
       "visible": 1,
       "x": 0,
       "y": 0,
-      "zorder": 1,
+      "zorder": 3,
       "gameobjects": [],
       "components": [
         {
@@ -116,7 +88,7 @@
           "name": "GUIComponent",
           "file": null,
           "fileData": {
-            "path": "ui/equipment_nowlist/equipment_nowlist.ExportJson",
+            "path": "ui/f_equipment_nowlist/f_equipment_nowlist.ExportJson",
             "plistFile": "",
             "resourceType": 0
           }
@@ -133,8 +105,8 @@
       "scalex": 0.4999999,
       "scaley": 0.4999999,
       "visible": 1,
-      "x": 313.28668212890625,
-      "y": 422.46499633789062,
+      "x": 283.87490844726562,
+      "y": 340.112060546875,
       "zorder": 1,
       "gameobjects": [],
       "components": [
@@ -144,7 +116,7 @@
           "name": "CCArmature",
           "file": null,
           "fileData": {
-            "path": "ani/charactor/testbody1/geboneA1.ExportJson",
+            "path": "ani/charactor/char001/char001.ExportJson",
             "plistFile": "",
             "resourceType": 0
           },
@@ -159,7 +131,7 @@
     "_width": 1024
   },
   "Triggers": null,
-  "Version": "1.4.0.1",
+  "Version": "1.6.0.0",
   "components": [
     {
       "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",

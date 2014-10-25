@@ -15,14 +15,14 @@
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
       "name": "topmenu",
-      "canedit": false,
+      "canedit": true,
       "objecttag": 10005,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": -8.1081085205078125,
-      "y": 5.4053955078125,
+      "x": -8,
+      "y": 2,
       "zorder": 4,
       "gameobjects": [],
       "components": [
@@ -43,13 +43,13 @@
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
       "name": "indexarea",
-      "canedit": false,
+      "canedit": true,
       "objecttag": 10007,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 0,
+      "x": 29.41180419921875,
       "y": 0,
       "zorder": 3,
       "gameobjects": [],
@@ -71,7 +71,7 @@
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
       "name": "bg",
-      "canedit": false,
+      "canedit": true,
       "objecttag": 10003,
       "rotation": 0,
       "scalex": 1,
@@ -122,6 +122,36 @@
           },
           "isShowColliderRect": false,
           "selectedactionname": "Animation2"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "elf",
+      "canedit": true,
+      "objecttag": 10013,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 421.56875610351562,
+      "y": 188.2353515625,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "ui/guildelf/elf.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
         }
       ]
     }
