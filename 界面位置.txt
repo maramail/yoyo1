@@ -1,0 +1,5 @@
+topmenu -8 2
+
+bg 0 0
+
+mahojin 190 256
