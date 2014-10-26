@@ -79,7 +79,7 @@
       "visible": 1,
       "x": 0,
       "y": 0,
-      "zorder": 1,
+      "zorder": 3,
       "gameobjects": [],
       "components": [
         {
@@ -88,7 +88,7 @@
           "name": "GUIComponent",
           "file": null,
           "fileData": {
-            "path": "ui/f_equipment_nowlist/f_equipment_nowlist.ExportJson",
+            "path": "ui/equipment_list/equipment_list.ExportJson",
             "plistFile": "",
             "resourceType": 0
           }
@@ -98,103 +98,32 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": "tempinfo",
+      "name": "mahojin",
       "canedit": true,
-      "objecttag": 10007,
+      "objecttag": 10048,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 0,
-      "y": 0,
-      "zorder": 3,
-      "gameobjects": [
+      "x": 190,
+      "y": 256,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
         {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "yn",
-          "canedit": true,
-          "objecttag": 10008,
-          "rotation": 0,
-          "scalex": 1,
-          "scaley": 1,
-          "visible": 0,
-          "x": 0,
-          "y": 0,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "GUIComponent",
-              "name": "GUIComponent",
-              "file": null,
-              "fileData": {
-                "path": "",
-                "plistFile": "",
-                "resourceType": 0
-              }
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "confirm1",
-          "canedit": true,
-          "objecttag": 10009,
-          "rotation": 0,
-          "scalex": 1,
-          "scaley": 1,
-          "visible": 0,
-          "x": 0,
-          "y": 0,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "GUIComponent",
-              "name": "GUIComponent",
-              "file": null,
-              "fileData": {
-                "path": "",
-                "plistFile": "",
-                "resourceType": 0
-              }
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "confirm2",
-          "canedit": true,
-          "objecttag": 10010,
-          "rotation": 0,
-          "scalex": 1,
-          "scaley": 1,
-          "visible": 0,
-          "x": 0,
-          "y": 0,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "GUIComponent",
-              "name": "GUIComponent",
-              "file": null,
-              "fileData": {
-                "path": "",
-                "plistFile": "",
-                "resourceType": 0
-              }
-            }
-          ]
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "ui/mahojin1/mahojin1.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation2"
         }
-      ],
-      "components": []
+      ]
     }
   ],
   "CanvasSize": {

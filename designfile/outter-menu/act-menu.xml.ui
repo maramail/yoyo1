@@ -22,6 +22,7 @@
     <string>f_topmenu.json</string>
     <string>f_info_window_missionlist.json</string>
     <string>f_info_window_payask.json</string>
+    <string>f_story_list.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1024</Width>
@@ -37,5 +38,5 @@
     <string>act-menu0.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>f_info_window_payask.json</CurrentUIJson>
+  <CurrentUIJson>equipment_list.json</CurrentUIJson>
 </UIProject>

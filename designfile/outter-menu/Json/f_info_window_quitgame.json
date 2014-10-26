@@ -78,13 +78,13 @@
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "buttonback.png",
+                "path": "buttonnotquit.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "pressed": null,
               "pressedData": {
-                "path": "buttonbackon.png",
+                "path": "buttonnotquiton.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -151,13 +151,13 @@
               "fontType": 0,
               "normal": null,
               "normalData": {
-                "path": "buttonyes.png",
+                "path": "buttonquit.png",
                 "plistFile": "",
                 "resourceType": 0
               },
               "pressed": null,
               "pressedData": {
-                "path": "buttonyeson.png",
+                "path": "buttonquiton.png",
                 "plistFile": "",
                 "resourceType": 0
               },
@@ -206,7 +206,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 312,
+              "width": 336,
               "x": -15,
               "y": 27,
               "areaHeight": 0,
@@ -215,7 +215,7 @@
               "fontName": "微软雅黑",
               "fontSize": 24,
               "hAlignment": 0,
-              "text": "確定要離開我們嗎？確定嗎？",
+              "text": "确定要离开我们了吗？确定吗？",
               "touchScaleEnable": false,
               "vAlignment": 0
             }

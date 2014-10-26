@@ -12,9 +12,7 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [
-    "act-menu0.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",

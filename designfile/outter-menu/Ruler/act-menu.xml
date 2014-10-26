@@ -64,4 +64,8 @@
     <Project>f_info_window_payask</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>f_story_list</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

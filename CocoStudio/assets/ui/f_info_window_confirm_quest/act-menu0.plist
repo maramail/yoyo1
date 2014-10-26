@@ -45,13 +45,13 @@
 			<key>buttonyeson.png</key>
 			<dict>
 				<key>width</key>
-				<integer>182</integer>
+				<integer>157</integer>
 				<key>height</key>
-				<integer>80</integer>
+				<integer>69</integer>
 				<key>originalWidth</key>
-				<integer>182</integer>
+				<integer>157</integer>
 				<key>originalHeight</key>
-				<integer>80</integer>
+				<integer>69</integer>
 				<key>x</key>
 				<integer>184</integer>
 				<key>y</key>
@@ -72,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>368</integer>
+				<integer>343</integer>
 				<key>y</key>
 				<integer>315</integer>
 				<key>offsetX</key>
@@ -91,7 +91,7 @@
 				<key>originalHeight</key>
 				<integer>80</integer>
 				<key>x</key>
-				<integer>552</integer>
+				<integer>527</integer>
 				<key>y</key>
 				<integer>315</integer>
 				<key>offsetX</key>
@@ -110,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>78</integer>
 				<key>x</key>
-				<integer>736</integer>
+				<integer>711</integer>
 				<key>y</key>
 				<integer>315</integer>
 				<key>offsetX</key>
