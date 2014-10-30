@@ -7,7 +7,7 @@
   <JsonFileName>act-menu.json</JsonFileName>
   <JsonFolder>D:\GitHub\yoyo1\designfile\outter-menu\Json</JsonFolder>
   <JsonList>
-    <string>f_bg.json</string>
+    <string>bg.json</string>
     <string>f_elf.json</string>
     <string>equipment_list.json</string>
     <string>f_equipment_nowlist.json</string>
@@ -19,7 +19,7 @@
     <string>info_window_longpressA.json</string>
     <string>f_info_window_quitgame.json</string>
     <string>f_questmap.json</string>
-    <string>f_topmenu.json</string>
+    <string>topmenu.json</string>
     <string>f_info_window_missionlist.json</string>
     <string>f_info_window_payask.json</string>
     <string>f_story_list.json</string>
@@ -38,5 +38,5 @@
     <string>act-menu0.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>equipment_list.json</CurrentUIJson>
+  <CurrentUIJson>bg.json</CurrentUIJson>
 </UIProject>

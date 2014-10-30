@@ -5,7 +5,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_topmenu</Project>
+    <Project>topmenu</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -21,7 +21,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_bg</Project>
+    <Project>bg</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
