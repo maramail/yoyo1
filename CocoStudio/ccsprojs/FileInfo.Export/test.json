@@ -1,9 +1,8 @@
 [
-  "ui/f_topmenu/act-menu0.png",
+  "ui/topmenu/act-menu0.png",
+  "ui/bg/act-menu0.png",
   "ui/f_equipment_nowlist/act-menu0.png",
   "publish\\test.json",
-  "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_topmenu\\act-menu0.plist",
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_equipment_nowlist\\act-menu0.plist",
-  "ui/f_topmenu/f_topmenu.ExportJson",
   "ui/f_equipment_nowlist/f_equipment_nowlist.ExportJson"
 ]

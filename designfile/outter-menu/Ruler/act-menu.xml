@@ -9,7 +9,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_questmap</Project>
+    <Project>questmap</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -50,10 +50,6 @@
   </GuidesProject>
   <GuidesProject>
     <Project>f_info_window_confirm_quest</Project>
-    <GuidesList />
-  </GuidesProject>
-  <GuidesProject>
-    <Project>f_elf</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
