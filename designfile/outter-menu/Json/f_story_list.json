@@ -12,9 +12,7 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [
-    "act-menu0.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -681,8 +679,8 @@
           "ignoreSize": false,
           "layoutParameter": null,
           "opacity": 255,
-          "positionPercentX": 0.5387993,
-          "positionPercentY": 0.463674575,
+          "positionPercentX": 0.538085938,
+          "positionPercentY": 0.463541657,
           "positionType": 0,
           "rotation": 0,
           "scaleX": 1,
