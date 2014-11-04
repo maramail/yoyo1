@@ -34,9 +34,11 @@
   <imageFileList>
     <string>act-menu0.plist</string>
   </imageFileList>
-  <imagePngList>
-    <string>act-menu0.png</string>
-  </imagePngList>
+  <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
+<<<<<<< HEAD
   <CurrentUIJson>f_info_window_missionselect.json</CurrentUIJson>
+=======
+  <CurrentUIJson>f_info_window_payask.json</CurrentUIJson>
+>>>>>>> a54015d9681bb9af7039a45e67e2a169b73a6cfc
 </UIProject>
