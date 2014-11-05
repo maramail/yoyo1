@@ -19,7 +19,7 @@
     <string>f_info_window_quitgame.json</string>
     <string>questmap.json</string>
     <string>topmenu.json</string>
-    <string>f_info_window_missionlist.json</string>
+    <string>f_info_window_infoconfirm.json</string>
     <string>f_info_window_payask.json</string>
     <string>f_story_list.json</string>
     <string>f_info_window_areamissionselect.json</string>
@@ -34,7 +34,9 @@
   <imageFileList>
     <string>act-menu0.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>act-menu0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>info_window_continue.json</CurrentUIJson>
+  <CurrentUIJson>bg.json</CurrentUIJson>
 </UIProject>
