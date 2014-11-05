@@ -23,7 +23,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>buttongamemodemission.png</key>
+			<key>buttongamemodestory.png</key>
 			<dict>
 				<key>width</key>
 				<integer>248</integer>
@@ -42,25 +42,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>buttongamemodestory.png</key>
-			<dict>
-				<key>width</key>
-				<integer>248</integer>
-				<key>height</key>
-				<integer>77</integer>
-				<key>originalWidth</key>
-				<integer>248</integer>
-				<key>originalHeight</key>
-				<integer>77</integer>
-				<key>x</key>
-				<integer>638</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>frameseletemission.png</key>
 			<dict>
 				<key>width</key>
@@ -72,7 +53,7 @@
 				<key>originalHeight</key>
 				<integer>99</integer>
 				<key>x</key>
-				<integer>888</integer>
+				<integer>638</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -91,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>296</integer>
 				<key>x</key>
-				<integer>1197</integer>
+				<integer>947</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -110,7 +91,26 @@
 				<key>originalHeight</key>
 				<integer>296</integer>
 				<key>x</key>
-				<integer>1495</integer>
+				<integer>1245</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>buttongamemodemission.png</key>
+			<dict>
+				<key>width</key>
+				<integer>248</integer>
+				<key>height</key>
+				<integer>77</integer>
+				<key>originalWidth</key>
+				<integer>248</integer>
+				<key>originalHeight</key>
+				<integer>77</integer>
+				<key>x</key>
+				<integer>1543</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

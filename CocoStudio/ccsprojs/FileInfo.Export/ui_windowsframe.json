@@ -6,7 +6,7 @@
   "ui/f_info_window_quitgame/act-menu0.png",
   "ui/info_window_continue/act-menu0.png",
   "ui/item_longpress/info_window_longpressA/act-menu0.png",
-  "ui/f_info_window_missionselect/act-menu0.png",
+  "ui/f_info_window_areamissionselect/act-menu0.png",
   "publish\\ui_windowsframe.json",
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_info_window_confirm\\act-menu0.plist",
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_info_window_confirm_quest\\act-menu0.plist",
@@ -15,7 +15,7 @@
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_info_window_quitgame\\act-menu0.plist",
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\info_window_continue\\act-menu0.plist",
   "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\item_longpress\\info_window_longpressA\\act-menu0.plist",
-  "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_info_window_missionselect\\act-menu0.plist",
+  "D:\\GitHub\\yoyo1\\CocoStudio\\assets\\ui\\f_info_window_areamissionselect\\act-menu0.plist",
   "ui/f_info_window_confirm/f_info_window_confirm.ExportJson",
   "ui/f_info_window_confirm_quest/f_info_window_confirm_quest.ExportJson",
   "ui/f_info_window_confirm_yn/f_info_window_confirm_yn.ExportJson",
@@ -23,5 +23,5 @@
   "ui/f_info_window_quitgame/f_info_window_quitgame.ExportJson",
   "ui/info_window_continue/info_window_continue.ExportJson",
   "ui/item_longpress/info_window_longpressA/info_window_longpressA.ExportJson",
-  "ui/f_info_window_missionselect/f_info_window_missionselect.ExportJson"
+  "ui/f_info_window_areamissionselect/f_info_window_areamissionselect.ExportJson"
 ]
