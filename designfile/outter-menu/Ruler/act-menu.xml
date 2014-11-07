@@ -53,7 +53,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_missionlist</Project>
+    <Project>f_info_window_infoconfirm</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -65,7 +65,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_confirm_yn_0</Project>
+    <Project>f_info_window_areamissionselect</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>
