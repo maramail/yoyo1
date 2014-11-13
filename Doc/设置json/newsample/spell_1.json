@@ -1,0 +1,13 @@
+{
+  "sid": 1,
+  "name": "spell1",
+  "desc": "无描述",
+  "cost": -10,
+  "speed": 0,
+  "scope_x": 110,
+  "scope_y": 80,
+  "animation_hero": "attack1",
+  "animation_enemy": "attack1",
+  "bullet_file": "",
+  "params":[]
+}

@@ -1,0 +1,91 @@
+{
+
+//任务基本设置
+
+  "ins_id": 1,
+  "exp": 100,
+  "story_bg":"story/talkingbg.png",
+  
+//对话设置
+  
+  "story_people": [
+    {"name":"yoyoangry","file":"story/yoyoangry.png"},
+	{"name":"yoyolaugh1","file":"story/yoyolaugh1.png"},
+	{"name":"yoyolaugh2","file":"story/yoyolaugh2.png"},
+	{"name":"yoyonormal","file":"story/yoyonormal.png"},
+	{"name":"yoyosad","file":"story/yoyosad.png"},
+	{"name":"yoyosurprise","file":"story/yoyosurprise.png"}
+  ],
+  "story_text": [
+     {"time":2,"type":1,"left":"yoyolaugh1","right":"yoyonormal","txt":"你有病啊？"},
+     {"time":2,"type":2,"left":"yoyolaugh1","right":"yoyonormal","txt":"你有药啊？"},
+     {"time":2,"type":1,"left":"yoyolaugh2","right":"yoyonormal","txt":"你吃多少？"},
+     {"time":2,"type":2,"left":"yoyolaugh2","right":"yoyonormal","txt":"你有多少？"},
+     {"time":2,"type":1,"left":"yoyosad","right":"yoyonormal","txt":"你吃多少有多少！"},
+     {"time":2,"type":2,"left":"yoyosad","right":"yoyonormal","txt":"你有多少吃多少！"},
+     {"time":2,"type":1,"left":"yoyoangry","right":"yoyonormal","txt":"那就打一架吧！"},
+     {"time":2,"type":1,"left":"yoyosurprise","right":"yoyonormal","txt":"妖怪休走，吃俺老孙一棒！"}
+  ],
+  
+//场景设置  
+  
+  "maps": [
+
+
+           {
+           "far": "bg/Scene_HillStreet1_far.png",
+           "near": "bg/Scene_HillStreet1_near.png",
+           "ground": "bg/Scene_HillStreet1_road.png",
+           "condition":3,
+           "entry_word":"混乱加血加攻加防测试",
+           "enemy_list":[
+                         2001,3001
+                         ]
+           },
+           
+           {
+           "far": "bg/a1_day_far.png",
+           "near": "bg/a1_day_near.png",
+           "ground": "bg/a1_day_road.png",
+           "condition":4,
+           "entry_word":"防守测试",
+           "enemy_list":[
+                         5001,1001,1001,1001,1001,1001
+                         ]
+           },
+   
+{
+           "far": "bg/Scene_HillStreet1_far.png",
+           "near": "bg/Scene_HillStreet1_near.png",
+           "ground": "bg/Scene_HillStreet1_road.png",
+           "condition":3,
+           "entry_word":"召唤怪减速人质",
+           "enemy_list":[
+                         2002,4001
+                         ]
+           },
+  
+           
+  	{
+	    "far": "bg/Scene_HillStreet1_far.png",
+	    "near": "bg/Scene_HillStreet1_near.png",
+	    "ground": "bg/Scene_HillStreet1_road.png",
+	    "condition":3,
+	    "entry_word":"Center Street,10:00AM",
+	    "enemy_list":[
+	    	1001,1001,1001,1001,1001,1001,1001
+	    ]
+  	},
+  	{
+	    "far": "bg/far.png",
+	    "near": "bg/near.png",
+	    "ground": "bg/grass.png",
+	    "condition":3,
+	    "entry_word":"Center Park, 12:00AM",
+	    "enemy_list":[
+	    	1002,1002,1002,1002,1002,1002,1002,1002,1002,2001
+	    ]
+	}
+
+  ]
+}
