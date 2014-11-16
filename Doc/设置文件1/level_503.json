@@ -1,5 +1,5 @@
 {
-  "ins_id": 104,
+  "ins_id": 503,
   "name": "level4",
   "desc": "this is desc...",
   "story_bg":"story/talkingbg.png",
@@ -24,13 +24,13 @@
   //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
   
   "story_text": [
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：大家好，我是悠悠。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：大家好，我是莫兹。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：麻烦各位测试了这么多，真是辛苦了。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：这次的测试版故事模式总共有10集哦，辛苦大家了。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：对了或许我应该称呼屏幕对面的你做，团长先生。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：各位魔罚少女的团长，大家好。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：辛苦了，也请继续测试下去.......。"}
+  
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：团长，快起来啦。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：什么，不用上学？良好的生活习惯跟上学有什么关系？"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：再说了这可不是你家，这可是危机四伏的米德加尔德市！"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：遭了，说到就到，这下早饭都不用吃了啊！"},
+     
+     
   ],
   "maps": [
            {
@@ -43,7 +43,7 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001
+	    	     1002,1002,1002,1001,1001,1001,1001
 	           ]
   	       },
   	       {
@@ -53,7 +53,7 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001
+	    	     1001,1002,1002,1001,1002,1002,1002,1001,1002,1001,1002,1001,1001,1001
 	           ]
   	       },
   	       {
@@ -63,7 +63,7 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001
+	    	     1002,1001,1002,1001,1002,1001,1002,1001,1001,1001,1002,1001,1001
 	           ]
   	       }
 

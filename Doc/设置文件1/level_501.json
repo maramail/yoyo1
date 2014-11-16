@@ -24,11 +24,9 @@
   //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
   
   "story_text": [
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：大家好，我是悠悠。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：大家好，我是莫兹。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：这是我们的游戏的一个基本测试版本。这次的测试主要是针对我们的任务编排的展示。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：下一版本我们将会针对所有动画做一个全新的更替，包括角色和场景地图。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：敬请期待哦。（所以对目前的人物外观吐槽的朋友请节省槽力哦）"}
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：早上好。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：这是用来练习的任务，所以也比较轻松呢。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：对了，再强调一次，物品只会在任务之中掉落哦。"}
   ],
   "maps": [
            {

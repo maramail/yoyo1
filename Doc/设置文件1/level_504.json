@@ -1,6 +1,6 @@
 {
-  "ins_id": 102,
-  "name": "level2",
+  "ins_id": 504,
+  "name": "level4",
   "desc": "this is desc...",
   "story_bg":"story/talkingbg.png",
   
@@ -24,17 +24,17 @@
   //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
   
   "story_text": [
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：大家好，我是悠悠。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：大家好，我是莫兹。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：对了，为何我们每次出场都要介绍一下？"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：额，这或许是主催同学的奇怪想法吧。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：......"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：好吧我问了不该问的问题。其实，我是一名军火商"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozdizz","txt":"莫兹：听起来很厉害的样子呢！"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozdizz","txt":"悠悠：那你呢？"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：我就是业务员啦，业务员。"},
-     {"time":2,"type":1,"left":"yoyosad","right":"mozlaugh1","txt":"悠悠：就是与世界为敌的那种？"},
-     {"time":2,"type":2,"left":"yoyosad","right":"mozlaugh1","txt":"莫兹：嘛，差不多吧。"}
+  
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：团长，晚饭做好了。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：今晚有很美味的宇宙串烧DX呢。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：无论是魔法少女，还是负责提供魔力的团长大人，都要好好地补充体力和魔力哦。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：啊，你说那边的黑影？那当然是怪物啊。"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：啊！"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：......"},
+     {"time":2,"type":2,"left":"null","right":"mozlaugh1","txt":"莫兹：又要开战了呢，真是连个晚饭都不能好好吃。"}
+
+
+     
   ],
   "maps": [
            {
@@ -47,7 +47,7 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001
+	    	     1002,1002,1002,1001,1001,1001,1001
 	           ]
   	       },
   	       {
@@ -57,10 +57,19 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001
+	    	     1001,1002,1002,1001,1002,1002,1002,1001,1002,1001,1002,1001,1001,1001
+	           ]
+  	       },
+  	       {
+	          "far": "bg/Scene_HillStreet1_far.png",
+	          "near": "bg/Scene_HillStreet1_near.png",
+	          "ground": "bg/Scene_HillStreet1_road.png",
+	          "condition":3,
+	          "entry_word":"中央公园,10:00AM",
+	          "enemy_list":[
+	    	     1002,1001,1002,1001,1002,1001,1002,1001,1001,1001,1002,1001,1001
 	           ]
   	       }
-
 
   ]
 }
