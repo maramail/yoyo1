@@ -1,12 +1,13 @@
 {
+
+//任务基本设置
+
   "ins_id": 1,
-  "name": "fist level",
-  "desc": "this is desc...",
-  "min_level": 1,
-  "max_level": 4,
-  "exp": 400,
-  "equip": 1001,
+  "exp": 100,
   "story_bg":"story/talkingbg.png",
+  
+//对话设置
+  
   "story_people": [
     {"name":"yoyoangry","file":"story/yoyoangry.png"},
 	{"name":"yoyolaugh1","file":"story/yoyolaugh1.png"},
@@ -25,6 +26,9 @@
      {"time":2,"type":1,"left":"yoyoangry","right":"yoyonormal","txt":"那就打一架吧！"},
      {"time":2,"type":1,"left":"yoyosurprise","right":"yoyonormal","txt":"妖怪休走，吃俺老孙一棒！"}
   ],
+  
+//场景设置  
+  
   "maps": [
 
 

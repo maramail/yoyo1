@@ -1,34 +1,32 @@
 {
-
-//任务基本设置
-
   "ins_id": 1,
-  "exp": 100,
+  "name": "fist level",
+  "desc": "this is desc...",
   "story_bg":"story/talkingbg.png",
   
-//对话设置
-  
   "story_people": [
-   {"name":"yoyoangry","file":"story/yoyoangry.png"},
+  {"name":"yoyoangry","file":"story/yoyoangry.png"},
 	{"name":"yoyolaugh1","file":"story/yoyolaugh1.png"},
-	{"name":"yoyolaugh2","file":"story/yoyolaugh2.png"},
 	{"name":"yoyonormal","file":"story/yoyonormal.png"},
 	{"name":"yoyosad","file":"story/yoyosad.png"},
-	{"name":"yoyosurprise","file":"story/yoyosurprise.png"}
+	{"name":"yoyosurprise","file":"story/yoyosurprise.png"},
+  {"name":"yoyosweat","file":"story/yoyosweat.png"},
+  {"name":"mozcry2","file":"story/mozcry2.png"},
+  {"name":"mozdizz","file":"story/mozdizz.png"},
+  {"name":"mozlaugh1","file":"story/mozlaugh1.png"},
+  {"name":"moznormal","file":"story/moznormal.png"},
+  {"name":"mozsad","file":"story/mozsad.png"},
+  {"name":"mozsurprise","file":"story/mozsurprise.png"},
+  {"name":"null","file":"story/null.png"}
   ],
+  
+  //悠悠目前可用的表情为yoyonormal、yoyolaugh1、yoyoangry、yoyosad、yoyosurprise、yoyosweat
+  //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
+  
   "story_text": [
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"yoyonormal","txt":"你有病啊？"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"yoyonormal","txt":"你有药啊？"},
-     {"time":2,"type":1,"left":"yoyolaugh2","right":"yoyonormal","txt":"你吃多少？"},
-     {"time":2,"type":2,"left":"yoyolaugh2","right":"yoyonormal","txt":"你有多少？"},
-     {"time":2,"type":1,"left":"yoyosad","right":"yoyonormal","txt":"你吃多少有多少！"},
-     {"time":2,"type":2,"left":"yoyosad","right":"yoyonormal","txt":"你有多少吃多少！"},
-     {"time":2,"type":1,"left":"yoyoangry","right":"yoyonormal","txt":"那就打一架吧！"},
-     {"time":2,"type":1,"left":"yoyosurprise","right":"yoyonormal","txt":"妖怪休走，吃俺老孙一棒！"}
+     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：大家好，我是悠悠。"},
+     {"time":2,"type":2,"left":"yoyolaugh1","right":"yoyonormal","txt":"莫兹：大家好，我是莫兹。"},
   ],
-  
-//场景设置  
-  
   "maps": [
 
 
@@ -36,6 +34,8 @@
            "far": "bg/Scene_HillStreet1_far.png",
            "near": "bg/Scene_HillStreet1_near.png",
            "ground": "bg/Scene_HillStreet1_road.png",
+           
+           //胜利条件（1=杀死boss，2=存活时长，3=杀死所有怪物，4=帮助某人）
            "condition":3,
            "entry_word":"混乱加血加攻加防测试",
            "enemy_list":[
