@@ -14,11 +14,6 @@
   <filePath>D:\GitHub\yoyo1\designfile\spirit\elf\elf.xml.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath />
-  <ResourceFileList>
-    <string>elf0.plist</string>
-    <string>elf1.plist</string>
-    <string>elf2.plist</string>
-    <string>elf3.plist</string>
-  </ResourceFileList>
+  <ResourceFileList />
   <bBatchImage>true</bBatchImage>
 </AnimationProject>
