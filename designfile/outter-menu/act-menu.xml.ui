@@ -23,6 +23,7 @@
     <string>f_info_window_payask.json</string>
     <string>f_story_list.json</string>
     <string>f_info_window_areamissionselect.json</string>
+    <string>f_info_window_infocharactor.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1024</Width>
@@ -34,7 +35,9 @@
   <imageFileList>
     <string>act-menu0.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>act-menu0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>equipment_list.json</CurrentUIJson>
+  <CurrentUIJson>f_info_window_infocharactor.json</CurrentUIJson>
 </UIProject>

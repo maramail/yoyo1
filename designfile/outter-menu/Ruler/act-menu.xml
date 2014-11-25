@@ -68,4 +68,8 @@
     <Project>f_info_window_areamissionselect</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>f_info_window_infocharactor</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>
