@@ -19,19 +19,16 @@
   {"name":"mozsurprise","file":"story/mozsurprise.png"},
   {"name":"null","file":"story/null.png"}
   ],
-  
-  //悠悠目前可用的表情为yoyonormal、yoyolaugh1、yoyoangry、yoyosad、yoyosurprise、yoyosweat
-  //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
+
   
   "story_text": [
      {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：大家好，我是悠悠。"},
      {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：大家好，我是莫兹。"},
      {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：（我们也差不多是时候告别这种无聊的打招呼了。）"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：大家有没有发现前两关是一模一样的？对的那真是一模一样的。"},
-     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：为了节省时间用来看新番什么的.......。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：不过你的等级应该是不一样了，请你在本集以后看看菜单顶部的等级栏。"},
+     {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：为了节省写剧本的时间用来看新番什么的.......。"},
+     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：不过团长大人，您的等级已经提升了，请您在战斗后看看菜单顶部的等级栏。"},
      {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：应该有三级了吧。"},
-     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：本游戏的最大特色在于，每过一关就会升上一级。"},
+     {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：本游戏的等级是通过剧情发展而提升的哦，再也不用担心天天练级了哦。"},
      {"time":2,"type":1,"left":"yoyolaugh1","right":"mozlaugh1","txt":"悠悠：但是，等级和人物能力可是毫无瓜葛的哦。"},
      {"time":2,"type":2,"left":"yoyolaugh1","right":"mozdizz","txt":"莫兹：好坑爹。"}
   ],
@@ -41,7 +38,6 @@
 	          "near": "bg/Scene_HillStreet1_near.png",
 	          "ground": "bg/Scene_HillStreet1_road.png",
 	          
-	          //胜利条件（1=杀死boss，2=存活时长，3=杀死所有怪物，4=帮助某人）
 	          
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
@@ -56,17 +52,7 @@
 	          "condition":3,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001
-	           ]
-  	       },
-  	       {
-	          "far": "bg/Scene_HillStreet1_far.png",
-	          "near": "bg/Scene_HillStreet1_near.png",
-	          "ground": "bg/Scene_HillStreet1_road.png",
-	          "condition":3,
-	          "entry_word":"中央公园,10:00AM",
-	          "enemy_list":[
-	    	     1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001,1001
+	    	     1001,1001,1001,1001,1001,1001
 	           ]
   	       }
 
