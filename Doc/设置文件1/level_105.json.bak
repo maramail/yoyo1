@@ -20,6 +20,8 @@
   {"name":"null","file":"story/null.png"}
   ],
   
+  //悠悠目前可用的表情为yoyonormal、yoyolaugh1、yoyoangry、yoyosad、yoyosurprise、yoyosweat
+  //莫兹目前可用的表情为moznormal、mozlaugh1、mozcry2、mozdizz、mozsad、mozsurprise
   
   "story_text": [
      {"time":2,"type":2,"left":"yoyolaugh1","right":"mozlaugh1","txt":"莫兹：好了悠悠，什么是魔“罚”少女？"},
