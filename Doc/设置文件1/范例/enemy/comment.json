@@ -1,0 +1,46 @@
+{
+  //怪物类型
+  //1XXX=小兵
+  //2XXX=boss
+  //3XXX=辅助
+  //4XXX=人质
+  //5XXX=守护目标
+  "type": 1000,
+
+  //生命值
+  "hp": 100,
+
+  //攻击力
+  "attack": 5,
+
+  //防御值
+  "defense": 1,
+
+  //防御类型（1=护甲，2=被打两次死，3=被打三次死,4=无敌）
+  "def_type": 2,
+
+  //移动速度（像素/秒）
+  "move_speed": 130,
+    
+    //是否播放被攻击动画
+    "play_hit": true,
+
+  //文件名
+  "armature_file":"arm_010fff1/010fff1.ExportJson",
+  "armature_name":"010fff1",
+
+  //要说的话
+  "word":"",
+
+  //技能列表（按照释放优先级排序）
+  "spell_list": [
+  	1
+  ],
+
+  //与技能列表对应的技能的CD
+  "cd_list": [
+  	3
+  ]
+}
+
+
