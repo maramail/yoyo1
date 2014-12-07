@@ -10,10 +10,12 @@
   "designHeight": 768,
   "designWidth": 1024,
   "textures": [
-    "act-menu0.plist"
+    "act-menu0.plist",
+    "act-menu1.plist"
   ],
   "texturesPng": [
-    "act-menu0.png"
+    "act-menu0.png",
+    "act-menu1.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -434,6 +436,79 @@
           "scale9Enable": false,
           "scale9Height": 78,
           "scale9Width": 233,
+          "text": "",
+          "textColorB": 255,
+          "textColorG": 255,
+          "textColorR": 255
+        }
+      },
+      {
+        "classname": "Button",
+        "name": null,
+        "children": [],
+        "options": {
+          "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
+          "classname": "Button",
+          "name": "Button_6",
+          "ZOrder": 0,
+          "actiontag": 59206997,
+          "anchorPointX": 0.5,
+          "anchorPointY": 0.5,
+          "classType": "CocoStudio.EngineAdapterWrap.CSButton",
+          "colorB": 255,
+          "colorG": 255,
+          "colorR": 255,
+          "customProperty": "",
+          "flipX": false,
+          "flipY": false,
+          "height": 100,
+          "ignoreSize": false,
+          "layoutParameter": null,
+          "opacity": 255,
+          "positionPercentX": 0.283875525,
+          "positionPercentY": 0.3645691,
+          "positionType": 0,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "sizePercentX": 0.09765625,
+          "sizePercentY": 0.130208328,
+          "sizeType": 0,
+          "tag": 1394,
+          "touchAble": true,
+          "useMergedTexture": true,
+          "visible": true,
+          "width": 100,
+          "x": 290,
+          "y": 279,
+          "capInsetsHeight": 1,
+          "capInsetsWidth": 1,
+          "capInsetsX": 0,
+          "capInsetsY": 0,
+          "disabled": null,
+          "disabledData": {
+            "path": null,
+            "plistFile": null,
+            "resourceType": 0
+          },
+          "fontName": "微软雅黑",
+          "fontSize": 14,
+          "fontType": 0,
+          "normal": null,
+          "normalData": {
+            "path": "buttonfeed.png",
+            "plistFile": "",
+            "resourceType": 1
+          },
+          "pressed": null,
+          "pressedData": {
+            "path": null,
+            "plistFile": null,
+            "resourceType": 0
+          },
+          "scale9Enable": false,
+          "scale9Height": 100,
+          "scale9Width": 100,
           "text": "",
           "textColorB": 255,
           "textColorG": 255,

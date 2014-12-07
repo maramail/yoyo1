@@ -24,6 +24,7 @@
     <string>f_story_list.json</string>
     <string>f_info_window_areamissionselect.json</string>
     <string>f_info_window_infocharactor.json</string>
+    <string>info_feed.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1024</Width>
@@ -39,5 +40,5 @@
     <string>act-menu0.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>f_info_window_infocharactor.json</CurrentUIJson>
+  <CurrentUIJson>info_feed.json</CurrentUIJson>
 </UIProject>
