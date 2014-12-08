@@ -58,9 +58,10 @@
 	          "near": "bg/Scene_HillStreet1_near.png",
 	          "ground": "bg/Scene_HillStreet1_road.png",
 	          "condition":1,
+	          "killenemy":2002,
 	          "entry_word":"中央公园,10:00AM",
 	          "enemy_list":[
-	    	     4001,1001,1002,1001,1002,1001,1002,1001,1001,1001,1002,1001,1001
+	    	     2002,4001,1002,1001,1002,1001,1001,1001,1002,1001,1001
 	           ]
   	       }
 

@@ -1,0 +1,26 @@
+{
+  "type": 5000,
+
+  "hp": 400,
+
+  "attack": 5,
+
+  "defense": 0,
+
+  "def_type": 1,
+
+  "move_speed": 0,
+    
+  "play_hit": false,
+
+    "armature_file":"char010t1/char010t1.ExportJson",
+    "armature_name":"char010t1",
+
+  "word":"我是木头",
+
+  "spell_list": [
+  ],
+
+  "cd_list": [
+  ]
+}
