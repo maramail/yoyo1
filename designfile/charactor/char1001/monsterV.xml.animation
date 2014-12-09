@@ -14,8 +14,6 @@
   <filePath>D:\GitHub\yoyo1\designfile\charactor\char1001\monsterV.xml.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath />
-  <ResourceFileList>
-    <string>monsterV0.plist</string>
-  </ResourceFileList>
+  <ResourceFileList />
   <bBatchImage>true</bBatchImage>
 </AnimationProject>
