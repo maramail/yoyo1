@@ -492,9 +492,9 @@
           "fontType": 0,
           "normal": null,
           "normalData": {
-            "path": "buttonfeed.png",
+            "path": "C:\\Program Files\\Cocos Studio\\EditorDefaultRes\\GUI/button.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 2
           },
           "pressed": null,
           "pressedData": {

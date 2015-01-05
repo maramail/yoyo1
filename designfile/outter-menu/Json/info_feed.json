@@ -12,9 +12,7 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [
-    "act-menu0.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -47,8 +45,8 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": -0.308526576,
-              "positionPercentY": -0.241680861,
+              "positionPercentX": -0.307843149,
+              "positionPercentY": -0.24,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
@@ -126,7 +124,7 @@
               "rotation": 0,
               "scaleX": 1,
               "scaleY": 1,
-              "sizePercentX": 0.329411775,
+              "sizePercentX": 0.7470588,
               "sizePercentY": 0.206666663,
               "sizeType": 0,
               "tag": 621,
@@ -170,7 +168,7 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": -0.02098064,
+              "positionPercentX": -0.0205882359,
               "positionPercentY": -0.24,
               "positionType": 0,
               "rotation": 0,
