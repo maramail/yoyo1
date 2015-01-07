@@ -23,20 +23,20 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>star1.png</key>
+			<key>buttonitemnull.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>315</integer>
 				<key>height</key>
-				<integer>177</integer>
+				<integer>315</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>315</integer>
 				<key>originalHeight</key>
-				<integer>177</integer>
+				<integer>315</integer>
 				<key>x</key>
-				<integer>722</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>471</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -53,7 +53,7 @@
 				<key>originalHeight</key>
 				<integer>69</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>317</integer>
 				<key>y</key>
 				<integer>471</integer>
 				<key>offsetX</key>
@@ -72,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>80</integer>
 				<key>x</key>
-				<integer>184</integer>
+				<integer>501</integer>
 				<key>y</key>
 				<integer>471</integer>
 				<key>offsetX</key>

@@ -36,7 +36,9 @@
   <imageFileList>
     <string>act-menu0.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>act-menu0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>f_info_window_infocharactor.json</CurrentUIJson>
+  <CurrentUIJson>equipment_list.json</CurrentUIJson>
 </UIProject>

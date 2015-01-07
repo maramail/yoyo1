@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\GitHub\yoyo1\designfile\ingame_scene</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\GitHub\yoyo1\designfile\ingame_scene\Resources</Resources>
+  <Name>ingame_scene</Name>
+  <JsonFileName>ingame_scene.json</JsonFileName>
+  <JsonFolder>D:\GitHub\yoyo1\designfile\ingame_scene\Json</JsonFolder>
+  <JsonList>
+    <string>base.json</string>
+    <string>scene.json</string>
+    <string>joy.json</string>
+    <string>bar_hero.json</string>
+    <string>bar_enemy.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>D:\GitHub\yoyo1\designfile\ingame_scene\ingame_scene.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>ingame_scene0.plist</string>
+    <string>ingame_scene1.plist</string>
+    <string>ingame_scene2.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ingame_scene0.png</string>
+    <string>ingame_scene1.png</string>
+    <string>ingame_scene2.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>scene.json</CurrentUIJson>
+</UIProject>

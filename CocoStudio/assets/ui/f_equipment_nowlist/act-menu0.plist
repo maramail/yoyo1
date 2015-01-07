@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>frameequiplist.png</key>
+			<key>buttonitemnull.png</key>
 			<dict>
 				<key>width</key>
-				<integer>271</integer>
+				<integer>315</integer>
 				<key>height</key>
-				<integer>72</integer>
+				<integer>315</integer>
 				<key>originalWidth</key>
-				<integer>271</integer>
+				<integer>315</integer>
 				<key>originalHeight</key>
-				<integer>72</integer>
+				<integer>315</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -34,7 +34,7 @@
 				<key>originalHeight</key>
 				<integer>78</integer>
 				<key>x</key>
-				<integer>273</integer>
+				<integer>317</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -53,26 +53,7 @@
 				<key>originalHeight</key>
 				<integer>87</integer>
 				<key>x</key>
-				<integer>508</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>star1.png</key>
-			<dict>
-				<key>width</key>
-				<integer>120</integer>
-				<key>height</key>
-				<integer>177</integer>
-				<key>originalWidth</key>
-				<integer>120</integer>
-				<key>originalHeight</key>
-				<integer>177</integer>
-				<key>x</key>
-				<integer>743</integer>
+				<integer>552</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
