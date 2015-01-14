@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GuidesProject>
-    <Project>f_index</Project>
+    <Project>index</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -17,7 +17,7 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_equipment_nowlist</Project>
+    <Project>equipment_nowlist</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
@@ -37,39 +37,39 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_quitgame</Project>
+    <Project>info_window_quitgame</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_confirm</Project>
+    <Project>info_window_confirm</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_confirm_yn</Project>
+    <Project>info_window_confirm_yn</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_confirm_quest</Project>
+    <Project>info_window_confirm_quest</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_infoconfirm</Project>
+    <Project>info_window_infoconfirm</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_payask</Project>
+    <Project>info_window_payask</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_story_list</Project>
+    <Project>story_list</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_areamissionselect</Project>
+    <Project>info_window_areamissionselect</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>f_info_window_infocharactor</Project>
+    <Project>info_window_infocharactor</Project>
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
