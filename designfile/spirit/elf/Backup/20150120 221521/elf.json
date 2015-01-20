@@ -7,128 +7,110 @@
       "name": "elf",
       "bone_data": [
         {
-          "name": "1",
+          "name": "body",
           "parent": "",
           "dI": 0,
-          "x": -83.576240539550781,
-          "y": 158.08772277832031,
-          "z": 4,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": false,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "elf1.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "2",
-          "parent": "",
-          "dI": 0,
-          "x": -82.888885498046875,
-          "y": 159.70735168457031,
-          "z": 3,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": false,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "elf2.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "4",
-          "parent": "",
-          "dI": 0,
-          "x": -83.3333511352539,
-          "y": 159.29597473144531,
-          "z": 1,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": false,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "elf4.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Layer5",
-          "parent": "",
-          "dI": 0,
-          "x": -81.2500228881836,
-          "y": 240.11466979980469,
+          "x": -4.487187385559082,
+          "y": 104.55545806884766,
           "z": 2,
           "cX": 1.0,
           "cY": 1.0,
           "kX": 0.0,
           "kY": 0.0,
-          "arrow_x": 9.059906005859375E-06,
-          "arrow_y": -1.1996424291282892E-05,
+          "arrow_x": -4.5299530029296875E-06,
+          "arrow_y": -4.9719426897354424E-05,
           "effectbyskeleton": true,
           "bl": 0,
           "display_data": [
             {
-              "name": "elf3.png",
+              "name": "elfbody.png",
               "displayType": 0,
               "skin_data": [
                 {
-                  "x": -1.932373,
-                  "y": -80.72975,
+                  "x": 7.07336426,
+                  "y": -76.01533,
                   "cX": 1.0,
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "face",
+          "parent": "body",
+          "dI": 0,
+          "x": 8.9743576049804688,
+          "y": 157.69229125976563,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": -1.2993812561035156E-05,
+          "arrow_y": -4.1493985918350518E-05,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "elfface2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 17.51279,
+                  "y": 28.3612976,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "elfface1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 17.51279,
+                  "y": 28.3612976,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "wing",
+          "parent": "body",
+          "dI": 0,
+          "x": -1.2820506095886231,
+          "y": 21.794868469238281,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": -1.4747076,
+          "kY": 1.4747076,
+          "arrow_x": 106.90341186523438,
+          "arrow_y": -5.0847702368628234E-05,
+          "effectbyskeleton": true,
+          "bl": 106,
+          "display_data": [
+            {
+              "name": "elfwing.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 47.95507,
+                  "y": -3.10577,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.47470784,
+                  "kY": -1.47470891
                 }
               ]
             }
@@ -143,15 +125,15 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 1,
+          "dr": 26,
           "lp": true,
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 1.0,
+          "sc": 0.5,
           "mov_bone_data": [
             {
-              "name": "1",
+              "name": "face",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -168,11 +150,41 @@
                   "tweenFrame": true,
                   "bd_src": 1,
                   "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
             {
-              "name": "2",
+              "name": "body",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -189,23 +201,17 @@
                   "tweenFrame": true,
                   "bd_src": 1,
                   "bd_dst": 771
-                }
-              ]
-            },
-            {
-              "name": "4",
-              "dl": 0.0,
-              "frame_data": [
+                },
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": 1.2820510864257813,
+                  "y": 7.6923065185546875,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 0,
+                  "fi": 25,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -214,7 +220,7 @@
               ]
             },
             {
-              "name": "Layer5",
+              "name": "wing",
               "dl": 0.0,
               "frame_data": [
                 {
@@ -241,33 +247,33 @@
   ],
   "texture_data": [
     {
-      "name": "elf4",
-      "width": 600.0,
-      "height": 800.0,
+      "name": "elfbody",
+      "width": 343.0,
+      "height": 657.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "elf3",
-      "width": 600.0,
-      "height": 800.0,
+      "name": "elfface2",
+      "width": 100.0,
+      "height": 137.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "elf2",
-      "width": 600.0,
-      "height": 800.0,
+      "name": "elfwing",
+      "width": 528.0,
+      "height": 425.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "elf1",
-      "width": 600.0,
-      "height": 800.0,
+      "name": "elfface1",
+      "width": 0.0,
+      "height": 0.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

@@ -4,18 +4,56 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>elf2.png</key>
+			<key>elfface2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>600</integer>
+				<integer>100</integer>
 				<key>height</key>
-				<integer>800</integer>
+				<integer>137</integer>
 				<key>originalWidth</key>
-				<integer>600</integer>
+				<integer>100</integer>
 				<key>originalHeight</key>
-				<integer>800</integer>
+				<integer>137</integer>
 				<key>x</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>elfface1.png</key>
+			<dict>
+				<key>width</key>
+				<integer>100</integer>
+				<key>height</key>
+				<integer>137</integer>
+				<key>originalWidth</key>
+				<integer>100</integer>
+				<key>originalHeight</key>
+				<integer>137</integer>
+				<key>x</key>
+				<integer>102</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>elfbody.png</key>
+			<dict>
+				<key>width</key>
+				<integer>343</integer>
+				<key>height</key>
+				<integer>657</integer>
+				<key>originalWidth</key>
+				<integer>343</integer>
+				<key>originalHeight</key>
+				<integer>657</integer>
+				<key>x</key>
+				<integer>204</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>

@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>elf1.png</key>
+			<key>elfwing.png</key>
 			<dict>
 				<key>width</key>
-				<integer>600</integer>
+				<integer>528</integer>
 				<key>height</key>
-				<integer>800</integer>
+				<integer>425</integer>
 				<key>originalWidth</key>
-				<integer>600</integer>
+				<integer>528</integer>
 				<key>originalHeight</key>
-				<integer>800</integer>
+				<integer>425</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
