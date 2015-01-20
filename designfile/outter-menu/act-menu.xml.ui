@@ -40,5 +40,5 @@
     <string>act-menu0.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>info_window_quitgame.json</CurrentUIJson>
+  <CurrentUIJson>info_window_infocharactor.json</CurrentUIJson>
 </UIProject>

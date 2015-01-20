@@ -12,7 +12,9 @@
   "textures": [
     "act-menu0.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "act-menu0.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -243,6 +245,60 @@
           "text": "标题",
           "touchScaleEnable": false,
           "vAlignment": 0
+        }
+      },
+      {
+        "classname": "ImageView",
+        "name": null,
+        "children": [],
+        "options": {
+          "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
+          "classname": "ImageView",
+          "name": "Image_7",
+          "ZOrder": 0,
+          "actiontag": 36565318,
+          "anchorPointX": 0.5,
+          "anchorPointY": 0.5,
+          "classType": "CocoStudio.EngineAdapterWrap.CSImageView",
+          "colorB": 255,
+          "colorG": 255,
+          "colorR": 255,
+          "customProperty": "",
+          "flipX": false,
+          "flipY": false,
+          "height": 315,
+          "ignoreSize": true,
+          "layoutParameter": null,
+          "opacity": 255,
+          "positionPercentX": 0.18909438,
+          "positionPercentY": 0.5155187,
+          "positionType": 0,
+          "rotation": 0,
+          "scaleX": 0.799999952,
+          "scaleY": 0.799999952,
+          "sizePercentX": 0.078125,
+          "sizePercentY": 0.104166664,
+          "sizeType": 0,
+          "tag": 1937,
+          "touchAble": false,
+          "useMergedTexture": false,
+          "visible": true,
+          "width": 315,
+          "x": 193,
+          "y": 395,
+          "capInsetsHeight": 1,
+          "capInsetsWidth": 1,
+          "capInsetsX": 0,
+          "capInsetsY": 0,
+          "fileName": null,
+          "fileNameData": {
+            "path": "buttonitemnull.png",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "scale9Enable": false,
+          "scale9Height": 315,
+          "scale9Width": 315
         }
       }
     ],

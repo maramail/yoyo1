@@ -54,7 +54,7 @@
           "sizeType": 0,
           "tag": 8,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 190,
           "x": 902,
@@ -76,13 +76,13 @@
           "normalData": {
             "path": "joykeya_off.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "joykeya_on.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 190,
@@ -127,7 +127,7 @@
           "sizeType": 0,
           "tag": 10,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 190,
           "x": 771,
@@ -149,13 +149,13 @@
           "normalData": {
             "path": "joykeyb_off.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "joykeyb_on.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 190,
@@ -200,7 +200,7 @@
           "sizeType": 0,
           "tag": 12,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 190,
           "x": 826,
@@ -222,13 +222,13 @@
           "normalData": {
             "path": "joykeyc_off.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
             "path": "joykeyc_on.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 190,
@@ -273,7 +273,7 @@
           "sizeType": 0,
           "tag": 13,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 300,
           "x": 112,
@@ -286,7 +286,7 @@
           "fileNameData": {
             "path": "joydown.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 300,
@@ -327,7 +327,7 @@
           "sizeType": 0,
           "tag": 15,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 159,
           "x": 114,
@@ -340,7 +340,7 @@
           "fileNameData": {
             "path": "joyon.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 159,
@@ -378,7 +378,7 @@
       "sizeType": 0,
       "tag": 3,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 1024,
       "x": 0,

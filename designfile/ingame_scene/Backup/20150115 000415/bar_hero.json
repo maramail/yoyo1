@@ -12,9 +12,7 @@
   "textures": [
     "ingame_scene0.plist"
   ],
-  "texturesPng": [
-    "ingame_scene0.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
