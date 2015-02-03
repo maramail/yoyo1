@@ -76,4 +76,8 @@
     <Project>info_feed</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>loading</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

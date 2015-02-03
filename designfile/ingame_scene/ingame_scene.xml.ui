@@ -23,9 +23,7 @@
   <imageFileList>
     <string>ingame_scene0.plist</string>
   </imageFileList>
-  <imagePngList>
-    <string>ingame_scene0.png</string>
-  </imagePngList>
+  <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>joy.json</CurrentUIJson>
+  <CurrentUIJson>bar_enemy.json</CurrentUIJson>
 </UIProject>
